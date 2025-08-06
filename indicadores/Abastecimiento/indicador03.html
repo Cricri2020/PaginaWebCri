@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Pronòstico de la demanda 
+      de materiales por sede</title>
+  </head>
+    <body>
+      <!--Titulo-->
+    <h1>Ingreso mensual generada por ventas de material por sede</h1>
+    <p class="lh-base">
+      Se presentan los ingresos reales y proyectados por cada sede, lo que permite
+      visualizar la evolución financiera a lo largo del tiempo. Estos gráficos son
+      útiles para validar las predicciones del modelo y mejorar la planificación de
+      recursos en función del comportamiento económico observado.
+    </p>
+
+    <div class="d-flex align-items-center mb-3">
+      <label for="sede-select3" class="me-2">Filtrar por sede:</label>
+      <select id="sede-select3" class="form-select form-select-sm w-auto me-4">
+        <option value="SEHS ANOP">SEHS ANOP</option>
+        <option value="SHES APCE">SHES APCE</option>
+        <option value="SEHS MICOP">SEHS MICOP</option>
+        <option value="SEHS MNO">SEHS MNO</option>
+        <option value="SEHS MPN">SEHS MPN</option>
+        <option value="SEHS CENTRAL">SEHS CENTRAL</option>
+      </select>
+
+      <label for="filterYearIngresos" class="me-2">Filtrar por año:</label>
+      <select id="filterYearIngresos" class="form-select form-select-sm w-auto">
+        <option value="all">Todos los años</option>
+      </select>
+    </div>
+
+    <canvas id="comparacionIngresosChart"></canvas>
+  </body>
+</html>
