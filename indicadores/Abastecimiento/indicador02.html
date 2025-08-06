@@ -7,9 +7,10 @@
     <title>Rentabilidad de la demanda de material adquirido por sedes</title>
   </head>
   <body>
+    <!--
     <h1 class="title">Tasa de crecimiento de ventas</h1>
 
-    <!-- Contenedor para el gráfico general -->
+     Contenedor para el gráfico general 
     <div class="contenido">
       <div class="grafico">
         <h4>Predicciones de Costo Promedio por Lote de envío para 2024</h4>
@@ -31,7 +32,6 @@
           >
           <select id="filterCategory" class="form-select form-select-sm w-auto">
             <option value="all">Todas</option>
-            <!-- Opciones de categorías dinámicas -->
           </select>
         </div>
         <div id="graficosIndividuales"></div>
@@ -60,10 +60,43 @@
             class="form-select form-select-sm w-auto"
           >
             <option value="all">Todas</option>
-            <!-- Opciones de categorías dinámicas -->
           </select>
         </div>
         <div id="graficosContainer"></div>
+      </div>
+    </div>
+    -->
+    <h1 class="title">Tasa de crecimiento de costos por sede</h1>
+
+    <div class="contenido">
+      <div class="grafico">
+        <h4>Comparación de Costos Reales vs Predichos por Sede</h4>
+        <p class="lh-base">
+          Se presentan los costos reales y las predicciones generadas por el modelo
+          para distintas sedes, organizadas cronológicamente. Estos gráficos permiten
+          evaluar la precisión del modelo al representar tanto los costos históricos
+          como los proyectados, facilitando la identificación de tendencias y apoyando
+          la planificación presupuestal en la gestión del abastecimiento.
+        </p>
+
+        <div class="d-flex align-items-center mb-3">
+          <label for="sede-select2" class="me-2">Filtrar por sede:</label>
+          <select id="sede-select2" class="form-select form-select-sm w-auto me-4">
+            <option value="SEHS ANOP">SEHS ANOP</option>
+            <option value="SHES APCE">SHES APCE</option>
+            <option value="SEHS MICOP">SEHS MICOP</option>
+            <option value="SEHS MNO">SEHS MNO</option>
+            <option value="SEHS MPN">SEHS MPN</option>
+            <option value="SEHS CENTRAL">SEHS CENTRAL</option>
+          </select>
+
+          <label for="filterYearCostos" class="me-2">Filtrar por año:</label>
+          <select id="filterYearCostos" class="form-select form-select-sm w-auto">
+            <option value="all">Todos los años</option>
+          </select>
+        </div>
+
+        <canvas id="comparacionCostosChart"></canvas>
       </div>
     </div>
   </body>

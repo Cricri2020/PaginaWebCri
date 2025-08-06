@@ -4,7 +4,7 @@ function cargarAbastecimiento02(url) {
   });
 }
 
-function inicializarGraficosA2() {
+/*function inicializarGraficosA2() {
   // Generar gráfico general
   fetch("json/abastecimiento02/grafico_general.json")
     .then((response) => response.json())
@@ -253,4 +253,90 @@ function inicializarGraficosA2() {
   // Inicialización
   cargarOpcionesCategorias(); // Cargar opciones en el select
   cargarGraficos("all"); // Mostrar todos los gráficos inicialmente
+}*/
+function inicializarGraficosA2() {
+  fetch("json/abastecimiento02/predicciones_comparacion_abastecimiento2.json")
+    .then((res) => res.json())
+    .then((data) => {
+      const filterYear = document.getElementById("filterYearCostos");
+      const filterSede = document.getElementById("sede-select2");
+
+      const validYears = [...new Set(data.map(item => parseInt(item.Year)))].filter(y => !isNaN(y)).sort();
+      validYears.forEach((year) => {
+        const option = document.createElement("option");
+        option.value = year;
+        option.textContent = year;
+        filterYear.appendChild(option);
+      });
+
+      const filterData = (sede, year) => {
+        return data
+          .filter(item => item.campo === sede && (year === "all" || item.Year === parseInt(year)))
+          .sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
+      };
+
+      const ctx = document.getElementById("comparacionCostosChart").getContext("2d");
+
+      const createChart = (datos) => {
+        return new Chart(ctx, {
+          type: "line",
+          data: {
+            labels: datos.map(d => d.fecha),
+            datasets: [
+              {
+                label: "Costo Real",
+                data: datos.map(d => d.Actual),
+                borderColor: "rgba(54, 162, 235, 1)",
+                backgroundColor: "rgba(54, 162, 235, 0.2)",
+                tension: 0.4
+              },
+              {
+                label: "Costo Predicho",
+                data: datos.map(d => d.Predicted),
+                borderColor: "rgba(255, 99, 132, 1)",
+                backgroundColor: "rgba(255, 99, 132, 0.2)",
+                borderDash: [5, 5],
+                tension: 0.4
+              }
+            ]
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              title: {
+                display: true,
+                text: "Comparación de Costos por Sede y Fecha",
+                font: { size: 18 }
+              }
+            },
+            scales: {
+              x: { title: { display: true, text: "Fecha" } },
+              y: { title: { display: true, text: "Costo" } }
+            }
+          }
+        });
+      };
+
+      let currentSede = "SEHS ANOP";
+      let currentYear = "all";
+      let chart = createChart(filterData(currentSede, currentYear));
+
+      filterYear.addEventListener("change", (e) => {
+        currentYear = e.target.value;
+        const datos = filterData(currentSede, currentYear);
+        chart.data.labels = datos.map(d => d.fecha);
+        chart.data.datasets[0].data = datos.map(d => d.Actual);
+        chart.data.datasets[1].data = datos.map(d => d.Predicted);
+        chart.update();
+      });
+
+      filterSede.addEventListener("change", (e) => {
+        currentSede = e.target.value;
+        const datos = filterData(currentSede, currentYear);
+        chart.data.labels = datos.map(d => d.fecha);
+        chart.data.datasets[0].data = datos.map(d => d.Actual);
+        chart.data.datasets[1].data = datos.map(d => d.Predicted);
+        chart.update();
+      });
+    });
 }
