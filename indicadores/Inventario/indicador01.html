@@ -11,7 +11,7 @@
     <h1 class="title">
       Promedio de los niveles de inventario esperados en tienda
     </h1>
-
+<!--
     <div class="contenido">
       <div class="grafico">
         <h4 class="mb-3">
@@ -61,6 +61,27 @@
             <option value="all">Todos</option>
           </select>
         </div>
+        <div id="graficosContainer2"></div>
+      </div>
+    </div>
+    -->
+    <div class="contenido">
+      <div class="grafico">
+        <h4 class="mb-3">Comparación de Inventario Real vs Predicho</h4>
+        <p class="lh-base">
+          Este gráfico presenta la evolución mensual de los niveles de inventario reales y las predicciones generadas por el modelo para cada categoría. La visualización permite evaluar la precisión del modelo al capturar las tendencias históricas y anticipar comportamientos futuros, facilitando la planificación y toma de decisiones logísticas.
+        </p>
+
+        <div class="d-flex align-items-center mb-3">
+          <label for="filterCategory" class="me-2">Filtrar por Categoría:</label>
+          <select id="filterCategory" class="form-select form-select-sm w-auto me-4"></select>
+
+          <label for="filterCategory2" class="me-2">Filtrar por Año:</label>
+          <select id="filterCategory2" class="form-select form-select-sm w-auto">
+            <option value="all">Todos los años</option>
+          </select>
+        </div>
+
         <div id="graficosContainer2"></div>
       </div>
     </div>

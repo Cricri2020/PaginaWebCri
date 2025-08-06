@@ -4,7 +4,7 @@ function cargarInventario01(url) {
   });
 }
 
-function inicializarGraficosI01() {
+/*function inicializarGraficosI01() {
   const categorias = ["Lote de envio 1", "Lote de envio 2", "Lote de envio 3", "Lote de envio 4"]; // Definir los grupos
   const graficosContainer = document.getElementById("graficosContainer");
   const filterCategory = document.getElementById("filterCategory");
@@ -313,4 +313,126 @@ function inicializarGraficosI01() {
   };
 
   init2();
+}
+*/
+function inicializarGraficosI01() {
+  fetch("json/inventario01/predicciones_comparacion_inventario1.json")
+    .then((res) => res.json())
+    .then((data) => {
+      const filterCategory = document.getElementById("filterCategory");
+      const filterYear = document.getElementById("filterCategory2"); // Reutilizado para año
+      const container = document.getElementById("graficosContainer2");
+      const canvasId = "inventario1Chart";
+
+      // Limpiar contenedor
+      container.innerHTML = "";
+
+      // Crear canvas
+      const canvas = document.createElement("canvas");
+      canvas.id = canvasId;
+      container.appendChild(canvas);
+      const ctx = canvas.getContext("2d");
+
+      // Categorías únicas
+      const categorias = [...new Set(data.map((d) => d.categoria))];
+      categorias.forEach((cat) => {
+        const option = document.createElement("option");
+        option.value = cat;
+        option.textContent = cat;
+        filterCategory.appendChild(option);
+      });
+
+      // Años únicos
+      const anios = [...new Set(data.map((d) => d.Year))].sort();
+      anios.forEach((y) => {
+        const option = document.createElement("option");
+        option.value = y;
+        option.textContent = y;
+        filterYear.appendChild(option);
+      });
+
+      let currentCategoria = categorias[0];
+      let currentAnio = "all";
+      let chart = null;
+
+      const filterData = (categoria, year) => {
+        return data
+          .filter(
+            (item) =>
+              item.categoria === categoria &&
+              (year === "all" || item.Year === parseInt(year))
+          )
+          .sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
+      };
+
+      const renderChart = () => {
+        const datos = filterData(currentCategoria, currentAnio);
+
+        const labels = datos.map((d) => d.fecha);
+        const reales = datos.map((d) => d.Actual);
+        const predichos = datos.map((d) => d.Predicted);
+
+        if (chart) chart.destroy();
+
+        chart = new Chart(ctx, {
+          type: "line",
+          data: {
+            labels: labels,
+            datasets: [
+              {
+                label: "Inventario Real",
+                data: reales,
+                borderColor: "blue",
+                backgroundColor: "rgba(54, 162, 235, 0.2)",
+                tension: 0.4,
+              },
+              {
+                label: "Inventario Predicho",
+                data: predichos,
+                borderColor: "orange",
+                backgroundColor: "rgba(255, 159, 64, 0.2)",
+                borderDash: [5, 5],
+                tension: 0.4,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              title: {
+                display: true,
+                text: `Inventario por Categoría: ${currentCategoria}${
+                  currentAnio !== "all" ? " - " + currentAnio : ""
+                }`,
+                font: { size: 18 },
+              },
+            },
+            scales: {
+              x: {
+                title: { display: true, text: "Fecha" },
+              },
+              y: {
+                title: { display: true, text: "Cantidad Total Inventariada" },
+              },
+            },
+          },
+        });
+      };
+
+      // Eventos
+      filterCategory.addEventListener("change", (e) => {
+        currentCategoria = e.target.value;
+        renderChart();
+      });
+
+      filterYear.addEventListener("change", (e) => {
+        currentAnio = e.target.value;
+        renderChart();
+      });
+
+      renderChart(); // Inicial
+    })
+    .catch((error) =>
+      console.error("Error al cargar el JSON de inventario 1:", error)
+    );
 }
