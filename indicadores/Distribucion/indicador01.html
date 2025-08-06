@@ -11,9 +11,9 @@
 </head>
 
 <body>
+  <!--
   <h1 class="title">Costo por unidad transportada</h1>
-
-  <!-- Contenedor para los gráficos -->
+   
   <div class="contenido">
     <div id="categorias" class="grafico">
       <p class="lh-base">En los gráficos se puede visualizar el promedio de productos distribuidos por cada lote de
@@ -34,12 +34,10 @@
       <canvas id="xgboost_max_depth" class="mb-5"></canvas>
       <canvas id="xgboost_learning_rate" class="mb-5"></canvas>
 
-      <!-- CatBoost Charts -->
       <canvas id="catboost_iterations" class="mb-5"></canvas>
       <canvas id="catboost_depth" class="mb-5"></canvas>
       <canvas id="catboost_learning_rate" class="mb-5"></canvas>
 
-      <!-- SVR Charts -->
       <canvas id="svr_c" class="mb-5"></canvas>
       <canvas id="svr_gamma" class="mb-5"></canvas>
     </div>
@@ -65,6 +63,37 @@
         que muestra tanto los valores reales como las predicciones. Esto permite una comparación visual clara de la
         evolución esperada para el año 2024.</p>
       <canvas id="predictionChart"></canvas>
+    </div>
+  </div>
+  -->
+  <h1 class="title">Cantidad promedio de material distribuido mensualmente por categoría</h1>
+
+  <div class="contenido">
+    <div class="grafico">
+      <h4 class="mb-3">Comparación de Predicciones vs Valores Reales por Fecha</h4>
+      <p class="lh-base">
+        Este gráfico muestra la cantidad de material distribuido mensualmente, comparando los valores históricos con los estimados por el modelo predictivo. 
+        La visualización permite evaluar la precisión del modelo y observar la tendencia de distribución a lo largo del tiempo por sede.
+      </p>
+
+      <div class="d-flex align-items-center mb-3">
+        <label for="sede-select-distribucion" class="me-2">Filtrar por sede:</label>
+        <select id="sede-select-distribucion" class="form-select form-select-sm w-auto me-4">
+          <option value="SEHS ANOP">SEHS ANOP</option>
+          <option value="SHES APCE">SHES APCE</option>
+          <option value="SEHS MICOP">SEHS MICOP</option>
+          <option value="SEHS MNO">SEHS MNO</option>
+          <option value="SEHS MPN">SEHS MPN</option>
+          <option value="SEHS CENTRAL">SEHS CENTRAL</option>
+        </select>
+
+        <label for="year-select-distribucion" class="me-2">Filtrar por año:</label>
+        <select id="year-select-distribucion" class="form-select form-select-sm w-auto">
+          <option value="all">Todos</option>
+        </select>
+      </div>
+
+      <canvas id="distribucionChart"></canvas>
     </div>
   </div>
 </body>

@@ -1,0 +1,3383 @@
+[
+    {
+        "Year": 2017,
+        "Actual": 15,
+        "Predicted": 14,
+        "fecha": "2017-01-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 17,
+        "Predicted": 13,
+        "fecha": "2017-02-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 19,
+        "Predicted": 17,
+        "fecha": "2017-03-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 28,
+        "Predicted": 26,
+        "fecha": "2017-04-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 31,
+        "Predicted": 27,
+        "fecha": "2017-05-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 41,
+        "Predicted": 33,
+        "fecha": "2017-06-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 34,
+        "Predicted": 34,
+        "fecha": "2017-07-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 37,
+        "Predicted": 42,
+        "fecha": "2017-08-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 40,
+        "Predicted": 42,
+        "fecha": "2017-09-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 38,
+        "Predicted": 44,
+        "fecha": "2017-10-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 59,
+        "Predicted": 51,
+        "fecha": "2017-11-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 54,
+        "Predicted": 51,
+        "fecha": "2017-12-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2017,
+        "Actual": 15,
+        "Predicted": 13,
+        "fecha": "2017-01-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 15,
+        "Predicted": 13,
+        "fecha": "2017-02-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 19,
+        "Predicted": 17,
+        "fecha": "2017-03-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 19,
+        "Predicted": 26,
+        "fecha": "2017-04-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 31,
+        "Predicted": 27,
+        "fecha": "2017-05-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 31,
+        "Predicted": 33,
+        "fecha": "2017-06-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 27,
+        "Predicted": 34,
+        "fecha": "2017-07-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 41,
+        "Predicted": 42,
+        "fecha": "2017-08-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 45,
+        "Predicted": 42,
+        "fecha": "2017-09-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 41,
+        "Predicted": 44,
+        "fecha": "2017-10-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 53,
+        "Predicted": 49,
+        "fecha": "2017-11-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 59,
+        "Predicted": 50,
+        "fecha": "2017-12-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2017,
+        "Actual": 17,
+        "Predicted": 14,
+        "fecha": "2017-03-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2017,
+        "Actual": 25,
+        "Predicted": 25,
+        "fecha": "2017-04-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2017,
+        "Actual": 3,
+        "Predicted": 26,
+        "fecha": "2017-05-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2017,
+        "Actual": 36,
+        "Predicted": 34,
+        "fecha": "2017-07-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2017,
+        "Actual": 59,
+        "Predicted": 43,
+        "fecha": "2017-10-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2017,
+        "Actual": 23,
+        "Predicted": 14,
+        "fecha": "2017-01-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2017,
+        "Actual": 13,
+        "Predicted": 19,
+        "fecha": "2017-03-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2017,
+        "Actual": 44,
+        "Predicted": 37,
+        "fecha": "2017-06-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2017,
+        "Actual": 40,
+        "Predicted": 44,
+        "fecha": "2017-10-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2017,
+        "Actual": 12,
+        "Predicted": 13,
+        "fecha": "2017-01-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 19,
+        "Predicted": 13,
+        "fecha": "2017-02-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 14,
+        "Predicted": 17,
+        "fecha": "2017-03-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 22,
+        "Predicted": 27,
+        "fecha": "2017-04-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 28,
+        "Predicted": 25,
+        "fecha": "2017-05-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 27,
+        "Predicted": 28,
+        "fecha": "2017-06-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 40,
+        "Predicted": 30,
+        "fecha": "2017-07-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 34,
+        "Predicted": 37,
+        "fecha": "2017-08-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 45,
+        "Predicted": 37,
+        "fecha": "2017-09-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 17,
+        "Predicted": 38,
+        "fecha": "2017-10-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 63,
+        "Predicted": 48,
+        "fecha": "2017-11-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2017,
+        "Actual": 19,
+        "Predicted": 20,
+        "fecha": "2017-04-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2017,
+        "Actual": 69,
+        "Predicted": 42,
+        "fecha": "2017-08-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2017,
+        "Actual": 42,
+        "Predicted": 48,
+        "fecha": "2017-11-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2017,
+        "Actual": 5,
+        "Predicted": 10,
+        "fecha": "2017-01-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 10,
+        "Predicted": 10,
+        "fecha": "2017-02-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 15,
+        "Predicted": 14,
+        "fecha": "2017-03-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 28,
+        "Predicted": 22,
+        "fecha": "2017-04-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 35,
+        "Predicted": 28,
+        "fecha": "2017-06-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 25,
+        "Predicted": 30,
+        "fecha": "2017-07-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 22,
+        "Predicted": 37,
+        "fecha": "2017-08-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 44,
+        "Predicted": 37,
+        "fecha": "2017-09-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 50,
+        "Predicted": 43,
+        "fecha": "2017-11-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 28,
+        "Predicted": 44,
+        "fecha": "2017-12-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2017,
+        "Actual": 15,
+        "Predicted": 13,
+        "fecha": "2017-01-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 16,
+        "Predicted": 13,
+        "fecha": "2017-02-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 19,
+        "Predicted": 17,
+        "fecha": "2017-03-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 26,
+        "Predicted": 26,
+        "fecha": "2017-04-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 33,
+        "Predicted": 27,
+        "fecha": "2017-05-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 32,
+        "Predicted": 33,
+        "fecha": "2017-06-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 39,
+        "Predicted": 34,
+        "fecha": "2017-07-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 39,
+        "Predicted": 41,
+        "fecha": "2017-08-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 45,
+        "Predicted": 44,
+        "fecha": "2017-09-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 44,
+        "Predicted": 44,
+        "fecha": "2017-10-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 51,
+        "Predicted": 50,
+        "fecha": "2017-11-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2017,
+        "Actual": 64,
+        "Predicted": 51,
+        "fecha": "2017-12-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 16,
+        "Predicted": 12,
+        "fecha": "2018-01-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 14,
+        "Predicted": 12,
+        "fecha": "2018-02-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 13,
+        "Predicted": 16,
+        "fecha": "2018-03-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 23,
+        "Predicted": 25,
+        "fecha": "2018-04-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 26,
+        "Predicted": 26,
+        "fecha": "2018-05-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 30,
+        "Predicted": 32,
+        "fecha": "2018-06-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 29,
+        "Predicted": 33,
+        "fecha": "2018-07-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 39,
+        "Predicted": 41,
+        "fecha": "2018-08-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 38,
+        "Predicted": 41,
+        "fecha": "2018-09-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 41,
+        "Predicted": 43,
+        "fecha": "2018-10-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 48,
+        "Predicted": 49,
+        "fecha": "2018-11-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 48,
+        "Predicted": 50,
+        "fecha": "2018-12-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2018,
+        "Actual": 14,
+        "Predicted": 12,
+        "fecha": "2018-01-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 11,
+        "Predicted": 16,
+        "fecha": "2018-03-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 29,
+        "Predicted": 25,
+        "fecha": "2018-04-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 24,
+        "Predicted": 26,
+        "fecha": "2018-05-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 29,
+        "Predicted": 32,
+        "fecha": "2018-06-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 45,
+        "Predicted": 33,
+        "fecha": "2018-07-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 47,
+        "Predicted": 41,
+        "fecha": "2018-08-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 48,
+        "Predicted": 41,
+        "fecha": "2018-09-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 56,
+        "Predicted": 48,
+        "fecha": "2018-11-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 42,
+        "Predicted": 49,
+        "fecha": "2018-12-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2018,
+        "Actual": 7,
+        "Predicted": 9,
+        "fecha": "2018-01-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2018,
+        "Actual": 61,
+        "Predicted": 24,
+        "fecha": "2018-04-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2018,
+        "Actual": 19,
+        "Predicted": 33,
+        "fecha": "2018-06-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2018,
+        "Actual": 36,
+        "Predicted": 44,
+        "fecha": "2018-12-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2018,
+        "Actual": 42,
+        "Predicted": 36,
+        "fecha": "2018-06-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2018,
+        "Actual": 54,
+        "Predicted": 50,
+        "fecha": "2018-12-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2018,
+        "Actual": 10,
+        "Predicted": 12,
+        "fecha": "2018-01-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2018,
+        "Actual": 6,
+        "Predicted": 15,
+        "fecha": "2018-03-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2018,
+        "Actual": 26,
+        "Predicted": 25,
+        "fecha": "2018-04-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2018,
+        "Actual": 17,
+        "Predicted": 24,
+        "fecha": "2018-05-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2018,
+        "Actual": 33,
+        "Predicted": 27,
+        "fecha": "2018-06-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2018,
+        "Actual": 23,
+        "Predicted": 28,
+        "fecha": "2018-07-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2018,
+        "Actual": 29,
+        "Predicted": 36,
+        "fecha": "2018-08-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2018,
+        "Actual": 48,
+        "Predicted": 46,
+        "fecha": "2018-11-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2018,
+        "Actual": 69,
+        "Predicted": 47,
+        "fecha": "2018-12-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2018,
+        "Actual": 2,
+        "Predicted": 5,
+        "fecha": "2018-02-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2018,
+        "Actual": 36,
+        "Predicted": 37,
+        "fecha": "2018-09-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2018,
+        "Actual": 11,
+        "Predicted": 9,
+        "fecha": "2018-01-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2018,
+        "Actual": 4,
+        "Predicted": 21,
+        "fecha": "2018-04-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2018,
+        "Actual": 17,
+        "Predicted": 27,
+        "fecha": "2018-06-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2018,
+        "Actual": 45,
+        "Predicted": 28,
+        "fecha": "2018-07-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2018,
+        "Actual": 43,
+        "Predicted": 36,
+        "fecha": "2018-08-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2018,
+        "Actual": 32,
+        "Predicted": 35,
+        "fecha": "2018-09-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2018,
+        "Actual": 35,
+        "Predicted": 41,
+        "fecha": "2018-11-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2018,
+        "Actual": 47,
+        "Predicted": 42,
+        "fecha": "2018-12-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2018,
+        "Actual": 13,
+        "Predicted": 12,
+        "fecha": "2018-01-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 13,
+        "Predicted": 12,
+        "fecha": "2018-02-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 13,
+        "Predicted": 16,
+        "fecha": "2018-03-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 27,
+        "Predicted": 25,
+        "fecha": "2018-04-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 29,
+        "Predicted": 26,
+        "fecha": "2018-05-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 33,
+        "Predicted": 32,
+        "fecha": "2018-06-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 34,
+        "Predicted": 33,
+        "fecha": "2018-07-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 42,
+        "Predicted": 40,
+        "fecha": "2018-08-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 42,
+        "Predicted": 42,
+        "fecha": "2018-09-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 44,
+        "Predicted": 49,
+        "fecha": "2018-11-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2018,
+        "Actual": 49,
+        "Predicted": 50,
+        "fecha": "2018-12-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 20,
+        "Predicted": 16,
+        "fecha": "2019-01-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 18,
+        "Predicted": 16,
+        "fecha": "2019-02-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 26,
+        "Predicted": 20,
+        "fecha": "2019-03-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 27,
+        "Predicted": 34,
+        "fecha": "2019-04-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 35,
+        "Predicted": 35,
+        "fecha": "2019-05-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 50,
+        "Predicted": 44,
+        "fecha": "2019-06-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 38,
+        "Predicted": 45,
+        "fecha": "2019-07-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 62,
+        "Predicted": 50,
+        "fecha": "2019-08-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 53,
+        "Predicted": 50,
+        "fecha": "2019-09-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 51,
+        "Predicted": 53,
+        "fecha": "2019-10-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 71,
+        "Predicted": 62,
+        "fecha": "2019-11-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 80,
+        "Predicted": 67,
+        "fecha": "2019-12-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2019,
+        "Actual": 11,
+        "Predicted": 15,
+        "fecha": "2019-01-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 16,
+        "Predicted": 16,
+        "fecha": "2019-02-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 19,
+        "Predicted": 19,
+        "fecha": "2019-03-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 36,
+        "Predicted": 33,
+        "fecha": "2019-04-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 32,
+        "Predicted": 35,
+        "fecha": "2019-05-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 40,
+        "Predicted": 43,
+        "fecha": "2019-06-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 35,
+        "Predicted": 45,
+        "fecha": "2019-07-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 42,
+        "Predicted": 50,
+        "fecha": "2019-08-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 46,
+        "Predicted": 49,
+        "fecha": "2019-09-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 63,
+        "Predicted": 52,
+        "fecha": "2019-10-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 69,
+        "Predicted": 59,
+        "fecha": "2019-11-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 73,
+        "Predicted": 65,
+        "fecha": "2019-12-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2019,
+        "Actual": 12,
+        "Predicted": 8,
+        "fecha": "2019-01-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2019,
+        "Actual": 7,
+        "Predicted": 8,
+        "fecha": "2019-02-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2019,
+        "Actual": 8,
+        "Predicted": 13,
+        "fecha": "2019-03-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2019,
+        "Actual": 10,
+        "Predicted": 25,
+        "fecha": "2019-04-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2019,
+        "Actual": 67,
+        "Predicted": 47,
+        "fecha": "2019-10-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2019,
+        "Actual": 18,
+        "Predicted": 49,
+        "fecha": "2019-12-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2019,
+        "Actual": 13,
+        "Predicted": 17,
+        "fecha": "2019-01-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 11,
+        "Predicted": 17,
+        "fecha": "2019-02-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 10,
+        "Predicted": 22,
+        "fecha": "2019-03-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 39,
+        "Predicted": 37,
+        "fecha": "2019-04-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 46,
+        "Predicted": 39,
+        "fecha": "2019-05-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 75,
+        "Predicted": 47,
+        "fecha": "2019-06-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 73,
+        "Predicted": 49,
+        "fecha": "2019-07-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 61,
+        "Predicted": 51,
+        "fecha": "2019-08-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 16,
+        "Predicted": 44,
+        "fecha": "2019-09-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 35,
+        "Predicted": 48,
+        "fecha": "2019-10-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 65,
+        "Predicted": 60,
+        "fecha": "2019-12-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2019,
+        "Actual": 27,
+        "Predicted": 17,
+        "fecha": "2019-01-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 15,
+        "Predicted": 17,
+        "fecha": "2019-02-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 20,
+        "Predicted": 21,
+        "fecha": "2019-03-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 57,
+        "Predicted": 35,
+        "fecha": "2019-04-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 28,
+        "Predicted": 33,
+        "fecha": "2019-05-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 43,
+        "Predicted": 38,
+        "fecha": "2019-06-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 39,
+        "Predicted": 40,
+        "fecha": "2019-07-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 40,
+        "Predicted": 43,
+        "fecha": "2019-08-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 54,
+        "Predicted": 43,
+        "fecha": "2019-09-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 56,
+        "Predicted": 45,
+        "fecha": "2019-10-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 57,
+        "Predicted": 57,
+        "fecha": "2019-11-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 46,
+        "Predicted": 62,
+        "fecha": "2019-12-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2019,
+        "Actual": 10,
+        "Predicted": 10,
+        "fecha": "2019-01-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2019,
+        "Actual": 4,
+        "Predicted": 8,
+        "fecha": "2019-02-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2019,
+        "Actual": 30,
+        "Predicted": 12,
+        "fecha": "2019-03-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2019,
+        "Actual": 3,
+        "Predicted": 25,
+        "fecha": "2019-04-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2019,
+        "Actual": 27,
+        "Predicted": 19,
+        "fecha": "2019-05-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2019,
+        "Actual": 15,
+        "Predicted": 23,
+        "fecha": "2019-06-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2019,
+        "Actual": 44,
+        "Predicted": 46,
+        "fecha": "2019-09-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2019,
+        "Actual": 13,
+        "Predicted": 15,
+        "fecha": "2019-01-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 20,
+        "Predicted": 16,
+        "fecha": "2019-02-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 21,
+        "Predicted": 20,
+        "fecha": "2019-03-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 37,
+        "Predicted": 34,
+        "fecha": "2019-04-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 44,
+        "Predicted": 34,
+        "fecha": "2019-05-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 60,
+        "Predicted": 43,
+        "fecha": "2019-06-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 33,
+        "Predicted": 45,
+        "fecha": "2019-07-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 62,
+        "Predicted": 50,
+        "fecha": "2019-08-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 52,
+        "Predicted": 50,
+        "fecha": "2019-09-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 38,
+        "Predicted": 53,
+        "fecha": "2019-10-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 53,
+        "Predicted": 59,
+        "fecha": "2019-11-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 97,
+        "Predicted": 65,
+        "fecha": "2019-12-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2019,
+        "Actual": 12,
+        "Predicted": 15,
+        "fecha": "2019-01-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 18,
+        "Predicted": 16,
+        "fecha": "2019-02-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 19,
+        "Predicted": 20,
+        "fecha": "2019-03-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 33,
+        "Predicted": 34,
+        "fecha": "2019-04-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 40,
+        "Predicted": 34,
+        "fecha": "2019-05-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 42,
+        "Predicted": 43,
+        "fecha": "2019-06-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 42,
+        "Predicted": 45,
+        "fecha": "2019-07-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 50,
+        "Predicted": 48,
+        "fecha": "2019-08-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 54,
+        "Predicted": 51,
+        "fecha": "2019-09-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 60,
+        "Predicted": 53,
+        "fecha": "2019-10-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 65,
+        "Predicted": 60,
+        "fecha": "2019-11-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2019,
+        "Actual": 65,
+        "Predicted": 66,
+        "fecha": "2019-12-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 17,
+        "Predicted": 17,
+        "fecha": "2020-01-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 18,
+        "Predicted": 19,
+        "fecha": "2020-02-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 23,
+        "Predicted": 23,
+        "fecha": "2020-03-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 72,
+        "Predicted": 40,
+        "fecha": "2020-04-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 38,
+        "Predicted": 40,
+        "fecha": "2020-05-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 53,
+        "Predicted": 45,
+        "fecha": "2020-06-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 47,
+        "Predicted": 50,
+        "fecha": "2020-07-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 56,
+        "Predicted": 55,
+        "fecha": "2020-08-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 45,
+        "Predicted": 56,
+        "fecha": "2020-09-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 59,
+        "Predicted": 59,
+        "fecha": "2020-10-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 70,
+        "Predicted": 65,
+        "fecha": "2020-11-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 86,
+        "Predicted": 74,
+        "fecha": "2020-12-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2020,
+        "Actual": 22,
+        "Predicted": 16,
+        "fecha": "2020-01-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 19,
+        "Predicted": 19,
+        "fecha": "2020-02-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 35,
+        "Predicted": 23,
+        "fecha": "2020-03-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 52,
+        "Predicted": 39,
+        "fecha": "2020-04-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 38,
+        "Predicted": 40,
+        "fecha": "2020-05-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 44,
+        "Predicted": 45,
+        "fecha": "2020-06-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 56,
+        "Predicted": 49,
+        "fecha": "2020-07-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 56,
+        "Predicted": 55,
+        "fecha": "2020-08-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 71,
+        "Predicted": 55,
+        "fecha": "2020-09-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 55,
+        "Predicted": 58,
+        "fecha": "2020-10-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 58,
+        "Predicted": 62,
+        "fecha": "2020-11-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2020,
+        "Actual": 5,
+        "Predicted": 8,
+        "fecha": "2020-01-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2020,
+        "Actual": 65,
+        "Predicted": 38,
+        "fecha": "2020-06-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2020,
+        "Actual": 35,
+        "Predicted": 49,
+        "fecha": "2020-09-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2020,
+        "Actual": 70,
+        "Predicted": 60,
+        "fecha": "2020-12-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2020,
+        "Actual": 18,
+        "Predicted": 20,
+        "fecha": "2020-02-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2020,
+        "Actual": 35,
+        "Predicted": 43,
+        "fecha": "2020-04-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2020,
+        "Actual": 50,
+        "Predicted": 48,
+        "fecha": "2020-09-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2020,
+        "Actual": 11,
+        "Predicted": 16,
+        "fecha": "2020-01-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 14,
+        "Predicted": 21,
+        "fecha": "2020-02-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 36,
+        "Predicted": 24,
+        "fecha": "2020-03-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 63,
+        "Predicted": 41,
+        "fecha": "2020-04-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 36,
+        "Predicted": 39,
+        "fecha": "2020-05-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 26,
+        "Predicted": 40,
+        "fecha": "2020-06-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 27,
+        "Predicted": 43,
+        "fecha": "2020-07-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 72,
+        "Predicted": 48,
+        "fecha": "2020-08-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 16,
+        "Predicted": 48,
+        "fecha": "2020-09-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 54,
+        "Predicted": 50,
+        "fecha": "2020-10-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 53,
+        "Predicted": 58,
+        "fecha": "2020-11-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 81,
+        "Predicted": 68,
+        "fecha": "2020-12-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2020,
+        "Actual": 4,
+        "Predicted": 7,
+        "fecha": "2020-02-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2020,
+        "Actual": 4,
+        "Predicted": 11,
+        "fecha": "2020-03-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2020,
+        "Actual": 20,
+        "Predicted": 19,
+        "fecha": "2020-01-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2020,
+        "Actual": 22,
+        "Predicted": 19,
+        "fecha": "2020-02-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2020,
+        "Actual": 17,
+        "Predicted": 23,
+        "fecha": "2020-03-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2020,
+        "Actual": 41,
+        "Predicted": 40,
+        "fecha": "2020-05-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2020,
+        "Actual": 57,
+        "Predicted": 45,
+        "fecha": "2020-06-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2020,
+        "Actual": 43,
+        "Predicted": 49,
+        "fecha": "2020-07-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2020,
+        "Actual": 68,
+        "Predicted": 58,
+        "fecha": "2020-10-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2020,
+        "Actual": 83,
+        "Predicted": 62,
+        "fecha": "2020-11-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2020,
+        "Actual": 64,
+        "Predicted": 72,
+        "fecha": "2020-12-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2020,
+        "Actual": 15,
+        "Predicted": 16,
+        "fecha": "2020-01-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 20,
+        "Predicted": 19,
+        "fecha": "2020-02-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 23,
+        "Predicted": 23,
+        "fecha": "2020-03-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 36,
+        "Predicted": 40,
+        "fecha": "2020-04-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 46,
+        "Predicted": 40,
+        "fecha": "2020-05-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 42,
+        "Predicted": 45,
+        "fecha": "2020-06-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 49,
+        "Predicted": 49,
+        "fecha": "2020-07-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 57,
+        "Predicted": 54,
+        "fecha": "2020-08-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 69,
+        "Predicted": 57,
+        "fecha": "2020-09-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 54,
+        "Predicted": 59,
+        "fecha": "2020-10-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 72,
+        "Predicted": 63,
+        "fecha": "2020-11-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2020,
+        "Actual": 76,
+        "Predicted": 73,
+        "fecha": "2020-12-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 18,
+        "Predicted": 17,
+        "fecha": "2021-01-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 15,
+        "Predicted": 20,
+        "fecha": "2021-02-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 18,
+        "Predicted": 24,
+        "fecha": "2021-03-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 37,
+        "Predicted": 38,
+        "fecha": "2021-04-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 54,
+        "Predicted": 39,
+        "fecha": "2021-05-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 30,
+        "Predicted": 44,
+        "fecha": "2021-06-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 47,
+        "Predicted": 49,
+        "fecha": "2021-07-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 48,
+        "Predicted": 54,
+        "fecha": "2021-08-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 57,
+        "Predicted": 54,
+        "fecha": "2021-09-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 63,
+        "Predicted": 57,
+        "fecha": "2021-10-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 68,
+        "Predicted": 62,
+        "fecha": "2021-11-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 65,
+        "Predicted": 70,
+        "fecha": "2021-12-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2021,
+        "Actual": 18,
+        "Predicted": 20,
+        "fecha": "2021-02-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 32,
+        "Predicted": 24,
+        "fecha": "2021-03-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 41,
+        "Predicted": 38,
+        "fecha": "2021-04-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 31,
+        "Predicted": 39,
+        "fecha": "2021-05-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 42,
+        "Predicted": 44,
+        "fecha": "2021-06-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 50,
+        "Predicted": 49,
+        "fecha": "2021-07-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 77,
+        "Predicted": 54,
+        "fecha": "2021-08-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 53,
+        "Predicted": 57,
+        "fecha": "2021-10-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 77,
+        "Predicted": 59,
+        "fecha": "2021-11-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 70,
+        "Predicted": 68,
+        "fecha": "2021-12-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2021,
+        "Actual": 25,
+        "Predicted": 18,
+        "fecha": "2021-03-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2021,
+        "Actual": 50,
+        "Predicted": 38,
+        "fecha": "2021-06-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2021,
+        "Actual": 35,
+        "Predicted": 40,
+        "fecha": "2021-05-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2021,
+        "Actual": 29,
+        "Predicted": 50,
+        "fecha": "2021-11-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2021,
+        "Actual": 68,
+        "Predicted": 59,
+        "fecha": "2021-12-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2021,
+        "Actual": 24,
+        "Predicted": 22,
+        "fecha": "2021-02-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 29,
+        "Predicted": 25,
+        "fecha": "2021-03-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 58,
+        "Predicted": 41,
+        "fecha": "2021-04-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 17,
+        "Predicted": 38,
+        "fecha": "2021-05-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 33,
+        "Predicted": 39,
+        "fecha": "2021-06-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 61,
+        "Predicted": 43,
+        "fecha": "2021-07-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 65,
+        "Predicted": 47,
+        "fecha": "2021-09-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 46,
+        "Predicted": 48,
+        "fecha": "2021-10-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 50,
+        "Predicted": 56,
+        "fecha": "2021-11-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 49,
+        "Predicted": 64,
+        "fecha": "2021-12-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2021,
+        "Actual": 41,
+        "Predicted": 52,
+        "fecha": "2021-08-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2021,
+        "Actual": 18,
+        "Predicted": 20,
+        "fecha": "2021-02-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2021,
+        "Actual": 14,
+        "Predicted": 24,
+        "fecha": "2021-03-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2021,
+        "Actual": 49,
+        "Predicted": 43,
+        "fecha": "2021-06-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2021,
+        "Actual": 43,
+        "Predicted": 49,
+        "fecha": "2021-07-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2021,
+        "Actual": 56,
+        "Predicted": 55,
+        "fecha": "2021-08-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2021,
+        "Actual": 20,
+        "Predicted": 54,
+        "fecha": "2021-09-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2021,
+        "Actual": 76,
+        "Predicted": 56,
+        "fecha": "2021-10-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2021,
+        "Actual": 65,
+        "Predicted": 58,
+        "fecha": "2021-11-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2021,
+        "Actual": 84,
+        "Predicted": 68,
+        "fecha": "2021-12-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2021,
+        "Actual": 19,
+        "Predicted": 20,
+        "fecha": "2021-02-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 26,
+        "Predicted": 24,
+        "fecha": "2021-03-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 38,
+        "Predicted": 39,
+        "fecha": "2021-04-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 44,
+        "Predicted": 39,
+        "fecha": "2021-05-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 47,
+        "Predicted": 44,
+        "fecha": "2021-06-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 48,
+        "Predicted": 49,
+        "fecha": "2021-07-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 51,
+        "Predicted": 53,
+        "fecha": "2021-08-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 67,
+        "Predicted": 56,
+        "fecha": "2021-09-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 57,
+        "Predicted": 58,
+        "fecha": "2021-10-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 62,
+        "Predicted": 60,
+        "fecha": "2021-11-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2021,
+        "Actual": 71,
+        "Predicted": 69,
+        "fecha": "2021-12-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 16,
+        "Predicted": 18,
+        "fecha": "2022-01-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 23,
+        "Predicted": 21,
+        "fecha": "2022-02-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 25,
+        "Predicted": 25,
+        "fecha": "2022-03-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 31,
+        "Predicted": 40,
+        "fecha": "2022-04-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 40,
+        "Predicted": 40,
+        "fecha": "2022-05-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 46,
+        "Predicted": 45,
+        "fecha": "2022-06-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 65,
+        "Predicted": 50,
+        "fecha": "2022-07-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 55,
+        "Predicted": 56,
+        "fecha": "2022-08-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 68,
+        "Predicted": 55,
+        "fecha": "2022-09-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 63,
+        "Predicted": 59,
+        "fecha": "2022-10-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 67,
+        "Predicted": 62,
+        "fecha": "2022-11-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 73,
+        "Predicted": 71,
+        "fecha": "2022-12-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2022,
+        "Actual": 20,
+        "Predicted": 18,
+        "fecha": "2022-01-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 20,
+        "Predicted": 21,
+        "fecha": "2022-02-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 24,
+        "Predicted": 25,
+        "fecha": "2022-03-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 42,
+        "Predicted": 40,
+        "fecha": "2022-04-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 39,
+        "Predicted": 41,
+        "fecha": "2022-05-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 50,
+        "Predicted": 45,
+        "fecha": "2022-06-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 51,
+        "Predicted": 50,
+        "fecha": "2022-07-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 58,
+        "Predicted": 55,
+        "fecha": "2022-08-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 59,
+        "Predicted": 55,
+        "fecha": "2022-09-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 69,
+        "Predicted": 58,
+        "fecha": "2022-10-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 49,
+        "Predicted": 59,
+        "fecha": "2022-11-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 77,
+        "Predicted": 68,
+        "fecha": "2022-12-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2022,
+        "Actual": 4,
+        "Predicted": 6,
+        "fecha": "2022-02-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2022,
+        "Actual": 32,
+        "Predicted": 24,
+        "fecha": "2022-04-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2022,
+        "Actual": 8,
+        "Predicted": 32,
+        "fecha": "2022-06-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2022,
+        "Actual": 20,
+        "Predicted": 46,
+        "fecha": "2022-10-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2022,
+        "Actual": 83,
+        "Predicted": 61,
+        "fecha": "2022-11-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2022,
+        "Actual": 14,
+        "Predicted": 20,
+        "fecha": "2022-01-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 18,
+        "Predicted": 23,
+        "fecha": "2022-02-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 39,
+        "Predicted": 27,
+        "fecha": "2022-03-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 33,
+        "Predicted": 43,
+        "fecha": "2022-04-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 57,
+        "Predicted": 44,
+        "fecha": "2022-05-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 52,
+        "Predicted": 48,
+        "fecha": "2022-06-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 78,
+        "Predicted": 53,
+        "fecha": "2022-07-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 59,
+        "Predicted": 56,
+        "fecha": "2022-08-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 37,
+        "Predicted": 48,
+        "fecha": "2022-09-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 72,
+        "Predicted": 53,
+        "fecha": "2022-11-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2022,
+        "Actual": 14,
+        "Predicted": 18,
+        "fecha": "2022-01-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 29,
+        "Predicted": 23,
+        "fecha": "2022-02-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 28,
+        "Predicted": 26,
+        "fecha": "2022-03-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 23,
+        "Predicted": 42,
+        "fecha": "2022-04-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 55,
+        "Predicted": 42,
+        "fecha": "2022-05-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 53,
+        "Predicted": 42,
+        "fecha": "2022-06-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 42,
+        "Predicted": 46,
+        "fecha": "2022-07-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 39,
+        "Predicted": 50,
+        "fecha": "2022-08-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 66,
+        "Predicted": 50,
+        "fecha": "2022-09-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 46,
+        "Predicted": 52,
+        "fecha": "2022-10-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 65,
+        "Predicted": 57,
+        "fecha": "2022-11-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 63,
+        "Predicted": 66,
+        "fecha": "2022-12-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2022,
+        "Actual": 11,
+        "Predicted": 11,
+        "fecha": "2022-01-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 21,
+        "Predicted": 14,
+        "fecha": "2022-02-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 8,
+        "Predicted": 17,
+        "fecha": "2022-03-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 85,
+        "Predicted": 34,
+        "fecha": "2022-04-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 10,
+        "Predicted": 30,
+        "fecha": "2022-05-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 10,
+        "Predicted": 29,
+        "fecha": "2022-06-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 33,
+        "Predicted": 40,
+        "fecha": "2022-07-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 72,
+        "Predicted": 65,
+        "fecha": "2022-08-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 99,
+        "Predicted": 67,
+        "fecha": "2022-10-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 74,
+        "Predicted": 76,
+        "fecha": "2022-12-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2022,
+        "Actual": 17,
+        "Predicted": 20,
+        "fecha": "2022-01-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 33,
+        "Predicted": 21,
+        "fecha": "2022-02-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 27,
+        "Predicted": 25,
+        "fecha": "2022-03-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 22,
+        "Predicted": 40,
+        "fecha": "2022-04-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 28,
+        "Predicted": 40,
+        "fecha": "2022-05-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 74,
+        "Predicted": 45,
+        "fecha": "2022-06-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 52,
+        "Predicted": 50,
+        "fecha": "2022-07-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 69,
+        "Predicted": 56,
+        "fecha": "2022-08-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 67,
+        "Predicted": 57,
+        "fecha": "2022-10-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 42,
+        "Predicted": 59,
+        "fecha": "2022-11-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 58,
+        "Predicted": 68,
+        "fecha": "2022-12-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2022,
+        "Actual": 19,
+        "Predicted": 18,
+        "fecha": "2022-01-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 22,
+        "Predicted": 21,
+        "fecha": "2022-02-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 24,
+        "Predicted": 25,
+        "fecha": "2022-03-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 40,
+        "Predicted": 40,
+        "fecha": "2022-04-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 36,
+        "Predicted": 40,
+        "fecha": "2022-05-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 46,
+        "Predicted": 45,
+        "fecha": "2022-06-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 54,
+        "Predicted": 50,
+        "fecha": "2022-07-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 54,
+        "Predicted": 54,
+        "fecha": "2022-08-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 61,
+        "Predicted": 57,
+        "fecha": "2022-09-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 68,
+        "Predicted": 59,
+        "fecha": "2022-10-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 68,
+        "Predicted": 60,
+        "fecha": "2022-11-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2022,
+        "Actual": 68,
+        "Predicted": 69,
+        "fecha": "2022-12-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 21,
+        "Predicted": 21,
+        "fecha": "2023-01-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 21,
+        "Predicted": 23,
+        "fecha": "2023-02-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 27,
+        "Predicted": 24,
+        "fecha": "2023-03-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 34,
+        "Predicted": 38,
+        "fecha": "2023-04-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 43,
+        "Predicted": 38,
+        "fecha": "2023-05-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 48,
+        "Predicted": 42,
+        "fecha": "2023-06-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 49,
+        "Predicted": 47,
+        "fecha": "2023-07-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 46,
+        "Predicted": 53,
+        "fecha": "2023-08-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 61,
+        "Predicted": 52,
+        "fecha": "2023-09-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 57,
+        "Predicted": 55,
+        "fecha": "2023-10-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 67,
+        "Predicted": 58,
+        "fecha": "2023-11-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 68,
+        "Predicted": 68,
+        "fecha": "2023-12-01",
+        "categoria": "Biblias"
+    },
+    {
+        "Year": 2023,
+        "Actual": 20,
+        "Predicted": 21,
+        "fecha": "2023-01-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 25,
+        "Predicted": 23,
+        "fecha": "2023-02-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 23,
+        "Predicted": 24,
+        "fecha": "2023-03-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 33,
+        "Predicted": 38,
+        "fecha": "2023-04-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 31,
+        "Predicted": 39,
+        "fecha": "2023-05-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 44,
+        "Predicted": 42,
+        "fecha": "2023-06-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 46,
+        "Predicted": 47,
+        "fecha": "2023-07-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 55,
+        "Predicted": 52,
+        "fecha": "2023-08-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 60,
+        "Predicted": 52,
+        "fecha": "2023-09-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 54,
+        "Predicted": 55,
+        "fecha": "2023-10-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 52,
+        "Predicted": 55,
+        "fecha": "2023-11-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 67,
+        "Predicted": 66,
+        "fecha": "2023-12-01",
+        "categoria": "Denominacional"
+    },
+    {
+        "Year": 2023,
+        "Actual": 9,
+        "Predicted": 15,
+        "fecha": "2023-04-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2023,
+        "Actual": 49,
+        "Predicted": 30,
+        "fecha": "2023-06-01",
+        "categoria": "Educases"
+    },
+    {
+        "Year": 2023,
+        "Actual": 25,
+        "Predicted": 24,
+        "fecha": "2023-02-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2023,
+        "Actual": 48,
+        "Predicted": 52,
+        "fecha": "2023-08-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2023,
+        "Actual": 38,
+        "Predicted": 46,
+        "fecha": "2023-11-01",
+        "categoria": "Himnario"
+    },
+    {
+        "Year": 2023,
+        "Actual": 22,
+        "Predicted": 22,
+        "fecha": "2023-01-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 42,
+        "Predicted": 27,
+        "fecha": "2023-02-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 21,
+        "Predicted": 25,
+        "fecha": "2023-03-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 34,
+        "Predicted": 41,
+        "fecha": "2023-04-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 57,
+        "Predicted": 40,
+        "fecha": "2023-05-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 38,
+        "Predicted": 40,
+        "fecha": "2023-06-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 61,
+        "Predicted": 45,
+        "fecha": "2023-07-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 41,
+        "Predicted": 49,
+        "fecha": "2023-08-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 55,
+        "Predicted": 49,
+        "fecha": "2023-09-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 29,
+        "Predicted": 50,
+        "fecha": "2023-10-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 51,
+        "Predicted": 56,
+        "fecha": "2023-11-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 87,
+        "Predicted": 66,
+        "fecha": "2023-12-01",
+        "categoria": "Libros de actividades"
+    },
+    {
+        "Year": 2023,
+        "Actual": 11,
+        "Predicted": 16,
+        "fecha": "2023-03-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2023,
+        "Actual": 26,
+        "Predicted": 33,
+        "fecha": "2023-04-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2023,
+        "Actual": 73,
+        "Predicted": 63,
+        "fecha": "2023-10-01",
+        "categoria": "Ministerio Joven"
+    },
+    {
+        "Year": 2023,
+        "Actual": 36,
+        "Predicted": 26,
+        "fecha": "2023-01-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2023,
+        "Actual": 24,
+        "Predicted": 23,
+        "fecha": "2023-03-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2023,
+        "Actual": 50,
+        "Predicted": 37,
+        "fecha": "2023-04-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2023,
+        "Actual": 54,
+        "Predicted": 38,
+        "fecha": "2023-05-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2023,
+        "Actual": 9,
+        "Predicted": 42,
+        "fecha": "2023-06-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2023,
+        "Actual": 58,
+        "Predicted": 51,
+        "fecha": "2023-09-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2023,
+        "Actual": 54,
+        "Predicted": 54,
+        "fecha": "2023-10-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2023,
+        "Actual": 38,
+        "Predicted": 54,
+        "fecha": "2023-11-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2023,
+        "Actual": 73,
+        "Predicted": 66,
+        "fecha": "2023-12-01",
+        "categoria": "Tarjetas y marcadores"
+    },
+    {
+        "Year": 2023,
+        "Actual": 21,
+        "Predicted": 21,
+        "fecha": "2023-01-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 22,
+        "Predicted": 24,
+        "fecha": "2023-02-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 26,
+        "Predicted": 24,
+        "fecha": "2023-03-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 40,
+        "Predicted": 38,
+        "fecha": "2023-04-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 49,
+        "Predicted": 39,
+        "fecha": "2023-05-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 44,
+        "Predicted": 42,
+        "fecha": "2023-06-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 48,
+        "Predicted": 47,
+        "fecha": "2023-07-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 51,
+        "Predicted": 51,
+        "fecha": "2023-08-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 60,
+        "Predicted": 54,
+        "fecha": "2023-09-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 59,
+        "Predicted": 56,
+        "fecha": "2023-10-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 61,
+        "Predicted": 57,
+        "fecha": "2023-11-01",
+        "categoria": "Titulos varios"
+    },
+    {
+        "Year": 2023,
+        "Actual": 66,
+        "Predicted": 67,
+        "fecha": "2023-12-01",
+        "categoria": "Titulos varios"
+    }
+]

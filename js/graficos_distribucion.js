@@ -3,7 +3,7 @@ function cargarDistribucion(url) {
     inicializarGraficosD();
   });
 }
-
+/*
 function inicializarGraficosD() {
   // Cargar datos desde los archivos JSON
   Promise.all([
@@ -568,4 +568,94 @@ function inicializarGraficosD() {
     .catch((error) =>
       console.error("Error al cargar el JSON para la distribución:", error)
     );
+}*/
+function inicializarGraficosD() {
+  fetch("json/distribucion/predicciones_comparacion_distribucion.json")
+    .then((res) => res.json())
+    .then((data) => {
+      const yearSelect = document.getElementById("year-select-distribucion");
+      const sedeSelect = document.getElementById("sede-select-distribucion");
+
+      // Obtener años únicos válidos
+      const validYears = [...new Set(data.map(item => parseInt(item.Year)))].filter(y => !isNaN(y)).sort();
+      validYears.forEach((year) => {
+        const option = document.createElement("option");
+        option.value = year;
+        option.textContent = year;
+        yearSelect.appendChild(option);
+      });
+
+      const filterData = (sede, year) => {
+        return data
+          .filter(item => item.campo === sede && (year === "all" || item.Year === parseInt(year)))
+          .sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
+      };
+
+      const ctx = document.getElementById("distribucionChart").getContext("2d");
+
+      const createChart = (datos) => {
+        return new Chart(ctx, {
+          type: "line",
+          data: {
+            labels: datos.map(d => d.fecha),
+            datasets: [
+              {
+                label: "Valor Real",
+                data: datos.map(d => d.Actual),
+                borderColor: "rgba(54, 162, 235, 1)",
+                backgroundColor: "rgba(54, 162, 235, 0.2)",
+                tension: 0.4
+              },
+              {
+                label: "Valor Predicho",
+                data: datos.map(d => d.Predicted),
+                borderColor: "rgba(255, 99, 132, 1)",
+                backgroundColor: "rgba(255, 99, 132, 0.2)",
+                borderDash: [5, 5],
+                tension: 0.4
+              }
+            ]
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              title: {
+                display: true,
+                text: "Distribución mensual por sede",
+                font: { size: 18 }
+              }
+            },
+            scales: {
+              x: { title: { display: true, text: "Fecha" } },
+              y: { title: { display: true, text: "Cantidad Distribuida" } }
+            }
+          }
+        });
+      };
+
+      let currentSede = "SEHS ANOP";
+      let currentYear = "all";
+      let chart = createChart(filterData(currentSede, currentYear));
+
+      yearSelect.addEventListener("change", (e) => {
+        currentYear = e.target.value;
+        const datos = filterData(currentSede, currentYear);
+        chart.data.labels = datos.map(d => d.fecha);
+        chart.data.datasets[0].data = datos.map(d => d.Actual);
+        chart.data.datasets[1].data = datos.map(d => d.Predicted);
+        chart.update();
+      });
+
+      sedeSelect.addEventListener("change", (e) => {
+        currentSede = e.target.value;
+        const datos = filterData(currentSede, currentYear);
+        chart.data.labels = datos.map(d => d.fecha);
+        chart.data.datasets[0].data = datos.map(d => d.Actual);
+        chart.data.datasets[1].data = datos.map(d => d.Predicted);
+        chart.update();
+      });
+    })
+    .catch((error) => {
+      console.error("Error al cargar el JSON de distribución:", error);
+    });
 }
