@@ -257,7 +257,7 @@ function inicializarGraficosA01() {
     });
 
   //Gráfico de Comparaciones de Predicciones vs Valores Reales por Año
-  fetch("json/abastecimiento01/comparacion_predicciones.json")
+  fetch("json/abastecimiento01/predicciones_comparacion_abastecimiento1.json")
   .then((res) => res.json())
   .then((data) => {
     // Obtener referencia al select de sede y de año
