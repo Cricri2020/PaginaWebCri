@@ -573,46 +573,71 @@ function inicializarGraficosD() {
   fetch("json/distribucion/predicciones_comparacion_distribucion.json")
     .then((res) => res.json())
     .then((data) => {
-      const yearSelect = document.getElementById("year-select-distribucion");
-      const sedeSelect = document.getElementById("sede-select-distribucion");
+      const filterCategoria = document.getElementById("filterCategoriaDistribucion");
+      const filterYear = document.getElementById("filterYearDistribucion");
+      const ctx = document.getElementById("graficoDistribucionComparacion").getContext("2d");
 
-      // Obtener años únicos válidos
-      const validYears = [...new Set(data.map(item => parseInt(item.Year)))].filter(y => !isNaN(y)).sort();
-      validYears.forEach((year) => {
+      // Obtener años únicos y categorías únicas
+      const years = [...new Set(data.map(d => new Date(d.fecha).getFullYear()))].sort();
+      const categorias = [...new Set(data.map(d => d.categoria))].sort();
+
+      // Llenar select de categoría
+      categorias.forEach(categoria => {
+        const option = document.createElement("option");
+        option.value = categoria;
+        option.textContent = categoria;
+        filterCategoria.appendChild(option);
+      });
+
+      // Llenar select de año
+      years.forEach(year => {
         const option = document.createElement("option");
         option.value = year;
         option.textContent = year;
-        yearSelect.appendChild(option);
+        filterYear.appendChild(option);
       });
 
-      const filterData = (sede, year) => {
+      let currentCategoria = categorias[0];
+      let currentYear = "all";
+      let chart;
+
+      const filtrarDatos = (categoria, year) => {
         return data
-          .filter(item => item.campo === sede && (year === "all" || item.Year === parseInt(year)))
+          .filter(d =>
+            d.categoria === categoria &&
+            (year === "all" || new Date(d.fecha).getFullYear().toString() === year.toString())
+          )
           .sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
       };
 
-      const ctx = document.getElementById("distribucionChart").getContext("2d");
+      const renderChart = () => {
+        const datos = filtrarDatos(currentCategoria, currentYear);
 
-      const createChart = (datos) => {
-        return new Chart(ctx, {
+        const labels = datos.map(d => d.fecha);
+        const actual = datos.map(d => d.Actual);
+        const predicted = datos.map(d => d.Predicted);
+
+        if (chart) chart.destroy();
+
+        chart = new Chart(ctx, {
           type: "line",
           data: {
-            labels: datos.map(d => d.fecha),
+            labels,
             datasets: [
               {
-                label: "Valor Real",
-                data: datos.map(d => d.Actual),
+                label: "Distribución Real",
+                data: actual,
                 borderColor: "rgba(54, 162, 235, 1)",
                 backgroundColor: "rgba(54, 162, 235, 0.2)",
-                tension: 0.4
+                tension: 0.4,
               },
               {
-                label: "Valor Predicho",
-                data: datos.map(d => d.Predicted),
+                label: "Distribución Predicha",
+                data: predicted,
                 borderColor: "rgba(255, 99, 132, 1)",
                 backgroundColor: "rgba(255, 99, 132, 0.2)",
                 borderDash: [5, 5],
-                tension: 0.4
+                tension: 0.4,
               }
             ]
           },
@@ -621,7 +646,7 @@ function inicializarGraficosD() {
             plugins: {
               title: {
                 display: true,
-                text: "Distribución mensual por sede",
+                text: `Comparación Real vs Predicho - ${currentCategoria}`,
                 font: { size: 18 }
               }
             },
@@ -633,29 +658,19 @@ function inicializarGraficosD() {
         });
       };
 
-      let currentSede = "SEHS ANOP";
-      let currentYear = "all";
-      let chart = createChart(filterData(currentSede, currentYear));
+      // Eventos
+      filterCategoria.addEventListener("change", (e) => {
+        currentCategoria = e.target.value;
+        renderChart();
+      });
 
-      yearSelect.addEventListener("change", (e) => {
+      filterYear.addEventListener("change", (e) => {
         currentYear = e.target.value;
-        const datos = filterData(currentSede, currentYear);
-        chart.data.labels = datos.map(d => d.fecha);
-        chart.data.datasets[0].data = datos.map(d => d.Actual);
-        chart.data.datasets[1].data = datos.map(d => d.Predicted);
-        chart.update();
+        renderChart();
       });
 
-      sedeSelect.addEventListener("change", (e) => {
-        currentSede = e.target.value;
-        const datos = filterData(currentSede, currentYear);
-        chart.data.labels = datos.map(d => d.fecha);
-        chart.data.datasets[0].data = datos.map(d => d.Actual);
-        chart.data.datasets[1].data = datos.map(d => d.Predicted);
-        chart.update();
-      });
+      // Inicial
+      renderChart();
     })
-    .catch((error) => {
-      console.error("Error al cargar el JSON de distribución:", error);
-    });
+    .catch(err => console.error("Error al cargar datos de distribución:", err));
 }

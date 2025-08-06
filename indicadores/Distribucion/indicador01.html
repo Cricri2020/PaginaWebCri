@@ -70,30 +70,25 @@
 
   <div class="contenido">
     <div class="grafico">
-      <h4 class="mb-3">Comparación de Predicciones vs Valores Reales por Fecha</h4>
+      <h4 class="mb-3">Comparación de Cantidad Distribuida: Real vs Predicha</h4>
       <p class="lh-base">
-        Este gráfico muestra la cantidad de material distribuido mensualmente, comparando los valores históricos con los estimados por el modelo predictivo. 
-        La visualización permite evaluar la precisión del modelo y observar la tendencia de distribución a lo largo del tiempo por sede.
+        Se presentan los registros de distribución por categoría, comparando los valores reales con las predicciones del modelo. Este análisis permite identificar tendencias temporales, evaluar la precisión del modelo y tomar decisiones informadas sobre la planificación logística y el abastecimiento por categoría.
       </p>
 
       <div class="d-flex align-items-center mb-3">
-        <label for="sede-select-distribucion" class="me-2">Filtrar por sede:</label>
-        <select id="sede-select-distribucion" class="form-select form-select-sm w-auto me-4">
-          <option value="SEHS ANOP">SEHS ANOP</option>
-          <option value="SHES APCE">SHES APCE</option>
-          <option value="SEHS MICOP">SEHS MICOP</option>
-          <option value="SEHS MNO">SEHS MNO</option>
-          <option value="SEHS MPN">SEHS MPN</option>
-          <option value="SEHS CENTRAL">SEHS CENTRAL</option>
+        <label for="filterCategoriaDistribucion" class="me-2">Filtrar por categoría:</label>
+        <select id="filterCategoriaDistribucion" class="form-select form-select-sm w-auto me-4">
+          <!-- opciones dinámicas -->
         </select>
 
-        <label for="year-select-distribucion" class="me-2">Filtrar por año:</label>
-        <select id="year-select-distribucion" class="form-select form-select-sm w-auto">
-          <option value="all">Todos</option>
+        <label for="filterYearDistribucion" class="me-2">Filtrar por año:</label>
+        <select id="filterYearDistribucion" class="form-select form-select-sm w-auto">
+          <option value="all">Todos los años</option>
+          <!-- opciones dinámicas -->
         </select>
       </div>
 
-      <canvas id="distribucionChart"></canvas>
+      <canvas id="graficoDistribucionComparacion"></canvas>
     </div>
   </div>
 </body>
