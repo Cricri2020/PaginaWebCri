@@ -3,7 +3,7 @@ function cargarInventario02(url) {
     inicializarGraficosI02();
   });
 }
-
+/*
 function inicializarGraficosI02() {
   const campos = [
     "SEHS_ANOP",
@@ -589,4 +589,94 @@ function inicializarGraficosI02() {
     console.error("Error al cargar el JSON para la división:", error)
   );
 
+}*/
+function inicializarGraficosI02() {
+  fetch("json/inventario02/predicciones_comparacion_inventario2.json")
+    .then((res) => res.json())
+    .then((data) => {
+      const yearSelect = document.getElementById("year-select-inv2");
+      const sedeSelect = document.getElementById("sede-select-inv2");
+      const ctx = document.getElementById("chartInventario2").getContext("2d");
+
+      // Llenar años únicos en el select
+      const years = [...new Set(data.map((item) => parseInt(item.Year)))].filter(y => !isNaN(y)).sort();
+      years.forEach((year) => {
+        const option = document.createElement("option");
+        option.value = year;
+        option.textContent = year;
+        yearSelect.appendChild(option);
+      });
+
+      let currentSede = sedeSelect.value;
+      let currentYear = yearSelect.value;
+
+      const filterData = (sede, year) => {
+        return data
+          .filter((item) => item.campo === sede && (year === "all" || parseInt(item.Year) === parseInt(year)))
+          .sort((a, b) => new Date(a.fecha) - new Date(b.fecha));
+      };
+
+      const createChart = (datos) => {
+        return new Chart(ctx, {
+          type: "line",
+          data: {
+            labels: datos.map((d) => d.fecha),
+            datasets: [
+              {
+                label: "Inventario Real",
+                data: datos.map((d) => d.Actual),
+                borderColor: "rgba(75, 192, 192, 1)",
+                backgroundColor: "rgba(75, 192, 192, 0.2)",
+                tension: 0.4
+              },
+              {
+                label: "Inventario Predicho",
+                data: datos.map((d) => d.Predicted),
+                borderColor: "rgba(255, 99, 132, 1)",
+                backgroundColor: "rgba(255, 99, 132, 0.2)",
+                borderDash: [5, 5],
+                tension: 0.4
+              }
+            ]
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              title: {
+                display: true,
+                text: "Comparación de Inventario por Sede y Fecha",
+                font: { size: 18 }
+              }
+            },
+            scales: {
+              x: { title: { display: true, text: "Fecha" } },
+              y: { title: { display: true, text: "Cantidad Promedio" } }
+            }
+          }
+        });
+      };
+
+      let chart = createChart(filterData(currentSede, currentYear));
+
+      yearSelect.addEventListener("change", (e) => {
+        currentYear = e.target.value;
+        const datos = filterData(currentSede, currentYear);
+        chart.data.labels = datos.map((d) => d.fecha);
+        chart.data.datasets[0].data = datos.map((d) => d.Actual);
+        chart.data.datasets[1].data = datos.map((d) => d.Predicted);
+        chart.update();
+      });
+
+      sedeSelect.addEventListener("change", (e) => {
+        currentSede = e.target.value;
+        const datos = filterData(currentSede, currentYear);
+        chart.data.labels = datos.map((d) => d.fecha);
+        chart.data.datasets[0].data = datos.map((d) => d.Actual);
+        chart.data.datasets[1].data = datos.map((d) => d.Predicted);
+        chart.update();
+      });
+    })
+    .catch((err) => {
+      console.error("Error cargando datos de inventario 2:", err);
+    });
 }

@@ -1,0 +1,3488 @@
+[
+    {
+        "Year": 2017,
+        "Actual": 16,
+        "Predicted": 15,
+        "fecha": "2017-01-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 18,
+        "Predicted": 17,
+        "fecha": "2017-02-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 18,
+        "Predicted": 20,
+        "fecha": "2017-03-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 24,
+        "Predicted": 27,
+        "fecha": "2017-04-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 29,
+        "Predicted": 30,
+        "fecha": "2017-05-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 31,
+        "Predicted": 32,
+        "fecha": "2017-06-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 35,
+        "Predicted": 36,
+        "fecha": "2017-07-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 36,
+        "Predicted": 39,
+        "fecha": "2017-08-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 35,
+        "Predicted": 40,
+        "fecha": "2017-09-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 48,
+        "Predicted": 45,
+        "fecha": "2017-10-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 52,
+        "Predicted": 51,
+        "fecha": "2017-11-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 51,
+        "Predicted": 52,
+        "fecha": "2017-12-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 15,
+        "Predicted": 15,
+        "fecha": "2017-01-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 16,
+        "Predicted": 16,
+        "fecha": "2017-02-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 18,
+        "Predicted": 20,
+        "fecha": "2017-03-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 26,
+        "Predicted": 27,
+        "fecha": "2017-04-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 33,
+        "Predicted": 31,
+        "fecha": "2017-05-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 32,
+        "Predicted": 32,
+        "fecha": "2017-06-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 40,
+        "Predicted": 37,
+        "fecha": "2017-07-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 38,
+        "Predicted": 39,
+        "fecha": "2017-08-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 48,
+        "Predicted": 44,
+        "fecha": "2017-09-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 41,
+        "Predicted": 43,
+        "fecha": "2017-10-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 50,
+        "Predicted": 53,
+        "fecha": "2017-11-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 52,
+        "Predicted": 53,
+        "fecha": "2017-12-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2017,
+        "Actual": 13,
+        "Predicted": 15,
+        "fecha": "2017-01-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 14,
+        "Predicted": 16,
+        "fecha": "2017-02-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 20,
+        "Predicted": 20,
+        "fecha": "2017-03-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 28,
+        "Predicted": 29,
+        "fecha": "2017-04-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 33,
+        "Predicted": 30,
+        "fecha": "2017-05-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 39,
+        "Predicted": 35,
+        "fecha": "2017-06-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 35,
+        "Predicted": 35,
+        "fecha": "2017-07-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 40,
+        "Predicted": 41,
+        "fecha": "2017-08-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 47,
+        "Predicted": 45,
+        "fecha": "2017-09-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 41,
+        "Predicted": 45,
+        "fecha": "2017-10-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 60,
+        "Predicted": 56,
+        "fecha": "2017-11-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 65,
+        "Predicted": 59,
+        "fecha": "2017-12-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2017,
+        "Actual": 15,
+        "Predicted": 15,
+        "fecha": "2017-01-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 19,
+        "Predicted": 18,
+        "fecha": "2017-02-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 25,
+        "Predicted": 20,
+        "fecha": "2017-03-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 26,
+        "Predicted": 28,
+        "fecha": "2017-04-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 35,
+        "Predicted": 32,
+        "fecha": "2017-05-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 30,
+        "Predicted": 31,
+        "fecha": "2017-06-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 37,
+        "Predicted": 36,
+        "fecha": "2017-07-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 36,
+        "Predicted": 39,
+        "fecha": "2017-08-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 41,
+        "Predicted": 41,
+        "fecha": "2017-09-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 37,
+        "Predicted": 44,
+        "fecha": "2017-10-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 54,
+        "Predicted": 51,
+        "fecha": "2017-11-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 62,
+        "Predicted": 53,
+        "fecha": "2017-12-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2017,
+        "Actual": 16,
+        "Predicted": 15,
+        "fecha": "2017-01-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 13,
+        "Predicted": 15,
+        "fecha": "2017-02-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 14,
+        "Predicted": 19,
+        "fecha": "2017-03-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 33,
+        "Predicted": 28,
+        "fecha": "2017-04-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 31,
+        "Predicted": 30,
+        "fecha": "2017-05-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 26,
+        "Predicted": 31,
+        "fecha": "2017-06-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 31,
+        "Predicted": 34,
+        "fecha": "2017-07-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 30,
+        "Predicted": 38,
+        "fecha": "2017-08-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 45,
+        "Predicted": 43,
+        "fecha": "2017-09-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 43,
+        "Predicted": 43,
+        "fecha": "2017-10-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 53,
+        "Predicted": 51,
+        "fecha": "2017-11-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 58,
+        "Predicted": 55,
+        "fecha": "2017-12-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2017,
+        "Actual": 16,
+        "Predicted": 16,
+        "fecha": "2017-01-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 16,
+        "Predicted": 18,
+        "fecha": "2017-02-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 16,
+        "Predicted": 20,
+        "fecha": "2017-03-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 25,
+        "Predicted": 27,
+        "fecha": "2017-04-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 28,
+        "Predicted": 31,
+        "fecha": "2017-05-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 40,
+        "Predicted": 39,
+        "fecha": "2017-06-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 33,
+        "Predicted": 39,
+        "fecha": "2017-07-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 40,
+        "Predicted": 43,
+        "fecha": "2017-08-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 55,
+        "Predicted": 47,
+        "fecha": "2017-09-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 51,
+        "Predicted": 49,
+        "fecha": "2017-10-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 45,
+        "Predicted": 45,
+        "fecha": "2017-11-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2017,
+        "Actual": 57,
+        "Predicted": 44,
+        "fecha": "2017-12-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 11,
+        "Predicted": 12,
+        "fecha": "2018-01-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 14,
+        "Predicted": 15,
+        "fecha": "2018-02-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 13,
+        "Predicted": 17,
+        "fecha": "2018-03-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 27,
+        "Predicted": 27,
+        "fecha": "2018-04-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 30,
+        "Predicted": 28,
+        "fecha": "2018-05-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 34,
+        "Predicted": 32,
+        "fecha": "2018-06-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 34,
+        "Predicted": 36,
+        "fecha": "2018-07-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 36,
+        "Predicted": 38,
+        "fecha": "2018-08-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 39,
+        "Predicted": 39,
+        "fecha": "2018-09-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 45,
+        "Predicted": 43,
+        "fecha": "2018-10-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 48,
+        "Predicted": 48,
+        "fecha": "2018-11-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 49,
+        "Predicted": 50,
+        "fecha": "2018-12-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 12,
+        "Predicted": 14,
+        "fecha": "2018-01-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 15,
+        "Predicted": 16,
+        "fecha": "2018-02-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 13,
+        "Predicted": 17,
+        "fecha": "2018-03-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 29,
+        "Predicted": 28,
+        "fecha": "2018-04-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 29,
+        "Predicted": 29,
+        "fecha": "2018-05-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 33,
+        "Predicted": 32,
+        "fecha": "2018-06-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 35,
+        "Predicted": 36,
+        "fecha": "2018-07-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 40,
+        "Predicted": 39,
+        "fecha": "2018-08-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 42,
+        "Predicted": 41,
+        "fecha": "2018-09-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 39,
+        "Predicted": 42,
+        "fecha": "2018-10-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 42,
+        "Predicted": 47,
+        "fecha": "2018-11-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 48,
+        "Predicted": 50,
+        "fecha": "2018-12-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2018,
+        "Actual": 17,
+        "Predicted": 15,
+        "fecha": "2018-01-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 14,
+        "Predicted": 16,
+        "fecha": "2018-02-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 14,
+        "Predicted": 17,
+        "fecha": "2018-03-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 31,
+        "Predicted": 29,
+        "fecha": "2018-04-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 22,
+        "Predicted": 27,
+        "fecha": "2018-05-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 35,
+        "Predicted": 33,
+        "fecha": "2018-06-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 37,
+        "Predicted": 36,
+        "fecha": "2018-07-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 47,
+        "Predicted": 42,
+        "fecha": "2018-08-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 40,
+        "Predicted": 41,
+        "fecha": "2018-09-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 42,
+        "Predicted": 43,
+        "fecha": "2018-10-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 57,
+        "Predicted": 54,
+        "fecha": "2018-11-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 54,
+        "Predicted": 56,
+        "fecha": "2018-12-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2018,
+        "Actual": 15,
+        "Predicted": 15,
+        "fecha": "2018-01-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 12,
+        "Predicted": 15,
+        "fecha": "2018-02-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 13,
+        "Predicted": 17,
+        "fecha": "2018-03-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 28,
+        "Predicted": 28,
+        "fecha": "2018-04-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 27,
+        "Predicted": 29,
+        "fecha": "2018-05-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 27,
+        "Predicted": 30,
+        "fecha": "2018-06-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 34,
+        "Predicted": 36,
+        "fecha": "2018-07-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 36,
+        "Predicted": 39,
+        "fecha": "2018-08-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 37,
+        "Predicted": 40,
+        "fecha": "2018-09-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 39,
+        "Predicted": 43,
+        "fecha": "2018-10-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 48,
+        "Predicted": 49,
+        "fecha": "2018-11-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 42,
+        "Predicted": 49,
+        "fecha": "2018-12-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2018,
+        "Actual": 13,
+        "Predicted": 15,
+        "fecha": "2018-01-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 15,
+        "Predicted": 16,
+        "fecha": "2018-02-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 12,
+        "Predicted": 17,
+        "fecha": "2018-03-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 24,
+        "Predicted": 29,
+        "fecha": "2018-04-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 28,
+        "Predicted": 28,
+        "fecha": "2018-05-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 34,
+        "Predicted": 32,
+        "fecha": "2018-06-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 31,
+        "Predicted": 33,
+        "fecha": "2018-07-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 48,
+        "Predicted": 41,
+        "fecha": "2018-08-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 45,
+        "Predicted": 42,
+        "fecha": "2018-09-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 41,
+        "Predicted": 41,
+        "fecha": "2018-10-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 45,
+        "Predicted": 47,
+        "fecha": "2018-11-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 52,
+        "Predicted": 51,
+        "fecha": "2018-12-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2018,
+        "Actual": 13,
+        "Predicted": 15,
+        "fecha": "2018-01-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 15,
+        "Predicted": 17,
+        "fecha": "2018-02-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 9,
+        "Predicted": 15,
+        "fecha": "2018-03-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 23,
+        "Predicted": 33,
+        "fecha": "2018-04-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 25,
+        "Predicted": 29,
+        "fecha": "2018-05-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 34,
+        "Predicted": 36,
+        "fecha": "2018-06-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 38,
+        "Predicted": 37,
+        "fecha": "2018-07-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 59,
+        "Predicted": 44,
+        "fecha": "2018-08-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 29,
+        "Predicted": 40,
+        "fecha": "2018-09-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 32,
+        "Predicted": 41,
+        "fecha": "2018-10-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 47,
+        "Predicted": 45,
+        "fecha": "2018-11-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2018,
+        "Actual": 48,
+        "Predicted": 44,
+        "fecha": "2018-12-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2019,
+        "Actual": 11,
+        "Predicted": 14,
+        "fecha": "2019-01-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 16,
+        "Predicted": 18,
+        "fecha": "2019-02-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 17,
+        "Predicted": 20,
+        "fecha": "2019-03-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 31,
+        "Predicted": 36,
+        "fecha": "2019-04-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 45,
+        "Predicted": 43,
+        "fecha": "2019-05-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 39,
+        "Predicted": 43,
+        "fecha": "2019-06-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 40,
+        "Predicted": 43,
+        "fecha": "2019-07-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 56,
+        "Predicted": 51,
+        "fecha": "2019-08-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 43,
+        "Predicted": 49,
+        "fecha": "2019-09-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 61,
+        "Predicted": 54,
+        "fecha": "2019-10-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 57,
+        "Predicted": 54,
+        "fecha": "2019-11-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 61,
+        "Predicted": 65,
+        "fecha": "2019-12-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 11,
+        "Predicted": 15,
+        "fecha": "2019-01-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 18,
+        "Predicted": 19,
+        "fecha": "2019-02-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 22,
+        "Predicted": 22,
+        "fecha": "2019-03-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 32,
+        "Predicted": 34,
+        "fecha": "2019-04-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 37,
+        "Predicted": 40,
+        "fecha": "2019-05-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 49,
+        "Predicted": 46,
+        "fecha": "2019-06-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 40,
+        "Predicted": 44,
+        "fecha": "2019-07-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 54,
+        "Predicted": 51,
+        "fecha": "2019-08-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 54,
+        "Predicted": 52,
+        "fecha": "2019-09-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 57,
+        "Predicted": 56,
+        "fecha": "2019-10-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 69,
+        "Predicted": 59,
+        "fecha": "2019-11-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 66,
+        "Predicted": 67,
+        "fecha": "2019-12-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2019,
+        "Actual": 12,
+        "Predicted": 15,
+        "fecha": "2019-01-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 18,
+        "Predicted": 19,
+        "fecha": "2019-02-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 20,
+        "Predicted": 21,
+        "fecha": "2019-03-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 35,
+        "Predicted": 35,
+        "fecha": "2019-04-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 35,
+        "Predicted": 40,
+        "fecha": "2019-05-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 42,
+        "Predicted": 44,
+        "fecha": "2019-06-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 39,
+        "Predicted": 43,
+        "fecha": "2019-07-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 51,
+        "Predicted": 53,
+        "fecha": "2019-08-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 58,
+        "Predicted": 54,
+        "fecha": "2019-09-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 57,
+        "Predicted": 57,
+        "fecha": "2019-10-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 61,
+        "Predicted": 60,
+        "fecha": "2019-11-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 83,
+        "Predicted": 71,
+        "fecha": "2019-12-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2019,
+        "Actual": 15,
+        "Predicted": 16,
+        "fecha": "2019-01-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 23,
+        "Predicted": 21,
+        "fecha": "2019-02-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 20,
+        "Predicted": 21,
+        "fecha": "2019-03-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 36,
+        "Predicted": 36,
+        "fecha": "2019-04-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 34,
+        "Predicted": 41,
+        "fecha": "2019-05-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 46,
+        "Predicted": 46,
+        "fecha": "2019-06-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 42,
+        "Predicted": 45,
+        "fecha": "2019-07-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 50,
+        "Predicted": 50,
+        "fecha": "2019-08-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 48,
+        "Predicted": 50,
+        "fecha": "2019-09-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 43,
+        "Predicted": 51,
+        "fecha": "2019-10-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 83,
+        "Predicted": 58,
+        "fecha": "2019-11-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 64,
+        "Predicted": 71,
+        "fecha": "2019-12-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2019,
+        "Actual": 15,
+        "Predicted": 16,
+        "fecha": "2019-01-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 17,
+        "Predicted": 19,
+        "fecha": "2019-02-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 21,
+        "Predicted": 22,
+        "fecha": "2019-03-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 38,
+        "Predicted": 35,
+        "fecha": "2019-04-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 40,
+        "Predicted": 42,
+        "fecha": "2019-05-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 43,
+        "Predicted": 46,
+        "fecha": "2019-06-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 44,
+        "Predicted": 45,
+        "fecha": "2019-07-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 50,
+        "Predicted": 50,
+        "fecha": "2019-08-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 57,
+        "Predicted": 53,
+        "fecha": "2019-09-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 67,
+        "Predicted": 59,
+        "fecha": "2019-10-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 69,
+        "Predicted": 59,
+        "fecha": "2019-11-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 67,
+        "Predicted": 66,
+        "fecha": "2019-12-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2019,
+        "Actual": 13,
+        "Predicted": 16,
+        "fecha": "2019-01-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2019,
+        "Actual": 25,
+        "Predicted": 20,
+        "fecha": "2019-02-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2019,
+        "Actual": 13,
+        "Predicted": 16,
+        "fecha": "2019-03-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2019,
+        "Actual": 74,
+        "Predicted": 59,
+        "fecha": "2019-07-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2019,
+        "Actual": 49,
+        "Predicted": 53,
+        "fecha": "2019-08-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2019,
+        "Actual": 39,
+        "Predicted": 60,
+        "fecha": "2019-09-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2019,
+        "Actual": 74,
+        "Predicted": 57,
+        "fecha": "2019-10-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2019,
+        "Actual": 6,
+        "Predicted": 57,
+        "fecha": "2019-11-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 15,
+        "Predicted": 19,
+        "fecha": "2020-01-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 18,
+        "Predicted": 20,
+        "fecha": "2020-02-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 24,
+        "Predicted": 27,
+        "fecha": "2020-03-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 36,
+        "Predicted": 37,
+        "fecha": "2020-04-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 51,
+        "Predicted": 45,
+        "fecha": "2020-05-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 51,
+        "Predicted": 47,
+        "fecha": "2020-06-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 49,
+        "Predicted": 49,
+        "fecha": "2020-07-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 56,
+        "Predicted": 56,
+        "fecha": "2020-08-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 79,
+        "Predicted": 67,
+        "fecha": "2020-09-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 53,
+        "Predicted": 61,
+        "fecha": "2020-10-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 76,
+        "Predicted": 69,
+        "fecha": "2020-11-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 73,
+        "Predicted": 75,
+        "fecha": "2020-12-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 16,
+        "Predicted": 19,
+        "fecha": "2020-01-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 21,
+        "Predicted": 21,
+        "fecha": "2020-02-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 21,
+        "Predicted": 26,
+        "fecha": "2020-03-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 43,
+        "Predicted": 40,
+        "fecha": "2020-04-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 40,
+        "Predicted": 41,
+        "fecha": "2020-05-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 48,
+        "Predicted": 46,
+        "fecha": "2020-06-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 53,
+        "Predicted": 52,
+        "fecha": "2020-07-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 60,
+        "Predicted": 58,
+        "fecha": "2020-08-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 61,
+        "Predicted": 63,
+        "fecha": "2020-09-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 53,
+        "Predicted": 63,
+        "fecha": "2020-10-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 64,
+        "Predicted": 67,
+        "fecha": "2020-11-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 72,
+        "Predicted": 74,
+        "fecha": "2020-12-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2020,
+        "Actual": 21,
+        "Predicted": 20,
+        "fecha": "2020-01-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 20,
+        "Predicted": 21,
+        "fecha": "2020-02-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 24,
+        "Predicted": 27,
+        "fecha": "2020-03-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 37,
+        "Predicted": 37,
+        "fecha": "2020-04-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 40,
+        "Predicted": 41,
+        "fecha": "2020-05-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 46,
+        "Predicted": 45,
+        "fecha": "2020-06-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 44,
+        "Predicted": 48,
+        "fecha": "2020-07-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 63,
+        "Predicted": 58,
+        "fecha": "2020-08-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 58,
+        "Predicted": 62,
+        "fecha": "2020-09-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 51,
+        "Predicted": 62,
+        "fecha": "2020-10-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 61,
+        "Predicted": 71,
+        "fecha": "2020-11-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 86,
+        "Predicted": 78,
+        "fecha": "2020-12-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2020,
+        "Actual": 14,
+        "Predicted": 20,
+        "fecha": "2020-01-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 20,
+        "Predicted": 22,
+        "fecha": "2020-02-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 30,
+        "Predicted": 29,
+        "fecha": "2020-03-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 47,
+        "Predicted": 42,
+        "fecha": "2020-04-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 42,
+        "Predicted": 42,
+        "fecha": "2020-05-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 51,
+        "Predicted": 45,
+        "fecha": "2020-06-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 53,
+        "Predicted": 51,
+        "fecha": "2020-07-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 55,
+        "Predicted": 57,
+        "fecha": "2020-08-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 81,
+        "Predicted": 67,
+        "fecha": "2020-09-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 57,
+        "Predicted": 64,
+        "fecha": "2020-10-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 75,
+        "Predicted": 70,
+        "fecha": "2020-11-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 97,
+        "Predicted": 78,
+        "fecha": "2020-12-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2020,
+        "Actual": 17,
+        "Predicted": 19,
+        "fecha": "2020-01-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 17,
+        "Predicted": 20,
+        "fecha": "2020-02-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 23,
+        "Predicted": 27,
+        "fecha": "2020-03-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 42,
+        "Predicted": 39,
+        "fecha": "2020-04-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 46,
+        "Predicted": 43,
+        "fecha": "2020-05-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 44,
+        "Predicted": 45,
+        "fecha": "2020-06-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 44,
+        "Predicted": 49,
+        "fecha": "2020-07-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 54,
+        "Predicted": 55,
+        "fecha": "2020-08-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 67,
+        "Predicted": 65,
+        "fecha": "2020-09-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 65,
+        "Predicted": 64,
+        "fecha": "2020-10-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 76,
+        "Predicted": 72,
+        "fecha": "2020-11-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 77,
+        "Predicted": 75,
+        "fecha": "2020-12-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2020,
+        "Actual": 22,
+        "Predicted": 26,
+        "fecha": "2020-01-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 21,
+        "Predicted": 24,
+        "fecha": "2020-02-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 102,
+        "Predicted": 30,
+        "fecha": "2020-03-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 4,
+        "Predicted": 44,
+        "fecha": "2020-04-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 11,
+        "Predicted": 58,
+        "fecha": "2020-05-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 71,
+        "Predicted": 62,
+        "fecha": "2020-06-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 74,
+        "Predicted": 68,
+        "fecha": "2020-08-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 35,
+        "Predicted": 75,
+        "fecha": "2020-09-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 80,
+        "Predicted": 76,
+        "fecha": "2020-10-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2020,
+        "Actual": 44,
+        "Predicted": 80,
+        "fecha": "2020-12-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 21,
+        "Predicted": 19,
+        "fecha": "2021-01-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 18,
+        "Predicted": 19,
+        "fecha": "2021-02-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 27,
+        "Predicted": 27,
+        "fecha": "2021-03-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 42,
+        "Predicted": 39,
+        "fecha": "2021-04-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 49,
+        "Predicted": 45,
+        "fecha": "2021-05-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 39,
+        "Predicted": 44,
+        "fecha": "2021-06-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 42,
+        "Predicted": 47,
+        "fecha": "2021-07-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 52,
+        "Predicted": 53,
+        "fecha": "2021-08-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 61,
+        "Predicted": 58,
+        "fecha": "2021-09-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 61,
+        "Predicted": 58,
+        "fecha": "2021-10-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 73,
+        "Predicted": 62,
+        "fecha": "2021-11-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 85,
+        "Predicted": 72,
+        "fecha": "2021-12-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 18,
+        "Predicted": 19,
+        "fecha": "2021-01-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 17,
+        "Predicted": 20,
+        "fecha": "2021-02-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 29,
+        "Predicted": 29,
+        "fecha": "2021-03-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 37,
+        "Predicted": 38,
+        "fecha": "2021-04-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 40,
+        "Predicted": 41,
+        "fecha": "2021-05-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 42,
+        "Predicted": 46,
+        "fecha": "2021-06-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 52,
+        "Predicted": 50,
+        "fecha": "2021-07-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 52,
+        "Predicted": 57,
+        "fecha": "2021-08-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 56,
+        "Predicted": 57,
+        "fecha": "2021-09-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 60,
+        "Predicted": 58,
+        "fecha": "2021-10-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 62,
+        "Predicted": 62,
+        "fecha": "2021-11-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 64,
+        "Predicted": 67,
+        "fecha": "2021-12-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2021,
+        "Actual": 17,
+        "Predicted": 18,
+        "fecha": "2021-01-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 15,
+        "Predicted": 19,
+        "fecha": "2021-02-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 28,
+        "Predicted": 28,
+        "fecha": "2021-03-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 37,
+        "Predicted": 38,
+        "fecha": "2021-04-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 36,
+        "Predicted": 41,
+        "fecha": "2021-05-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 45,
+        "Predicted": 46,
+        "fecha": "2021-06-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 49,
+        "Predicted": 48,
+        "fecha": "2021-07-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 49,
+        "Predicted": 56,
+        "fecha": "2021-08-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 48,
+        "Predicted": 54,
+        "fecha": "2021-09-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 49,
+        "Predicted": 56,
+        "fecha": "2021-10-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 66,
+        "Predicted": 63,
+        "fecha": "2021-11-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 60,
+        "Predicted": 68,
+        "fecha": "2021-12-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2021,
+        "Actual": 18,
+        "Predicted": 20,
+        "fecha": "2021-01-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 23,
+        "Predicted": 24,
+        "fecha": "2021-02-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 23,
+        "Predicted": 26,
+        "fecha": "2021-03-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 33,
+        "Predicted": 39,
+        "fecha": "2021-04-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 43,
+        "Predicted": 43,
+        "fecha": "2021-05-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 45,
+        "Predicted": 47,
+        "fecha": "2021-06-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 43,
+        "Predicted": 48,
+        "fecha": "2021-07-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 54,
+        "Predicted": 56,
+        "fecha": "2021-08-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 62,
+        "Predicted": 59,
+        "fecha": "2021-09-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 56,
+        "Predicted": 59,
+        "fecha": "2021-10-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 63,
+        "Predicted": 62,
+        "fecha": "2021-11-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 71,
+        "Predicted": 67,
+        "fecha": "2021-12-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2021,
+        "Actual": 16,
+        "Predicted": 18,
+        "fecha": "2021-01-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 18,
+        "Predicted": 20,
+        "fecha": "2021-02-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 28,
+        "Predicted": 27,
+        "fecha": "2021-03-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 42,
+        "Predicted": 38,
+        "fecha": "2021-04-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 44,
+        "Predicted": 43,
+        "fecha": "2021-05-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 47,
+        "Predicted": 46,
+        "fecha": "2021-06-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 49,
+        "Predicted": 49,
+        "fecha": "2021-07-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 58,
+        "Predicted": 54,
+        "fecha": "2021-08-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 68,
+        "Predicted": 61,
+        "fecha": "2021-09-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 56,
+        "Predicted": 58,
+        "fecha": "2021-10-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 58,
+        "Predicted": 61,
+        "fecha": "2021-11-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 77,
+        "Predicted": 67,
+        "fecha": "2021-12-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2021,
+        "Actual": 20,
+        "Predicted": 22,
+        "fecha": "2021-01-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 24,
+        "Predicted": 23,
+        "fecha": "2021-02-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 18,
+        "Predicted": 42,
+        "fecha": "2021-03-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 30,
+        "Predicted": 27,
+        "fecha": "2021-04-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 62,
+        "Predicted": 49,
+        "fecha": "2021-05-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 54,
+        "Predicted": 56,
+        "fecha": "2021-06-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 103,
+        "Predicted": 65,
+        "fecha": "2021-07-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 41,
+        "Predicted": 61,
+        "fecha": "2021-08-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 39,
+        "Predicted": 58,
+        "fecha": "2021-09-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 51,
+        "Predicted": 63,
+        "fecha": "2021-10-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 53,
+        "Predicted": 60,
+        "fecha": "2021-11-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2021,
+        "Actual": 46,
+        "Predicted": 60,
+        "fecha": "2021-12-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 18,
+        "Predicted": 17,
+        "fecha": "2022-01-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 20,
+        "Predicted": 21,
+        "fecha": "2022-02-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 21,
+        "Predicted": 25,
+        "fecha": "2022-03-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 38,
+        "Predicted": 41,
+        "fecha": "2022-04-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 38,
+        "Predicted": 45,
+        "fecha": "2022-05-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 44,
+        "Predicted": 44,
+        "fecha": "2022-06-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 67,
+        "Predicted": 50,
+        "fecha": "2022-07-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 51,
+        "Predicted": 54,
+        "fecha": "2022-08-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 56,
+        "Predicted": 58,
+        "fecha": "2022-09-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 64,
+        "Predicted": 61,
+        "fecha": "2022-10-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 65,
+        "Predicted": 63,
+        "fecha": "2022-11-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 76,
+        "Predicted": 70,
+        "fecha": "2022-12-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 17,
+        "Predicted": 17,
+        "fecha": "2022-01-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 23,
+        "Predicted": 22,
+        "fecha": "2022-02-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 27,
+        "Predicted": 27,
+        "fecha": "2022-03-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 40,
+        "Predicted": 38,
+        "fecha": "2022-04-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 38,
+        "Predicted": 42,
+        "fecha": "2022-05-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 46,
+        "Predicted": 45,
+        "fecha": "2022-06-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 57,
+        "Predicted": 52,
+        "fecha": "2022-07-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 60,
+        "Predicted": 56,
+        "fecha": "2022-08-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 64,
+        "Predicted": 59,
+        "fecha": "2022-09-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 58,
+        "Predicted": 60,
+        "fecha": "2022-10-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 67,
+        "Predicted": 64,
+        "fecha": "2022-11-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 71,
+        "Predicted": 66,
+        "fecha": "2022-12-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2022,
+        "Actual": 16,
+        "Predicted": 17,
+        "fecha": "2022-01-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 21,
+        "Predicted": 22,
+        "fecha": "2022-02-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 22,
+        "Predicted": 26,
+        "fecha": "2022-03-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 33,
+        "Predicted": 37,
+        "fecha": "2022-04-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 40,
+        "Predicted": 42,
+        "fecha": "2022-05-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 45,
+        "Predicted": 45,
+        "fecha": "2022-06-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 49,
+        "Predicted": 49,
+        "fecha": "2022-07-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 50,
+        "Predicted": 53,
+        "fecha": "2022-08-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 64,
+        "Predicted": 60,
+        "fecha": "2022-09-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 71,
+        "Predicted": 62,
+        "fecha": "2022-10-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 59,
+        "Predicted": 62,
+        "fecha": "2022-11-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 74,
+        "Predicted": 68,
+        "fecha": "2022-12-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2022,
+        "Actual": 25,
+        "Predicted": 17,
+        "fecha": "2022-01-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 23,
+        "Predicted": 22,
+        "fecha": "2022-02-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 26,
+        "Predicted": 24,
+        "fecha": "2022-03-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 54,
+        "Predicted": 43,
+        "fecha": "2022-04-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 38,
+        "Predicted": 41,
+        "fecha": "2022-05-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 41,
+        "Predicted": 43,
+        "fecha": "2022-06-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 58,
+        "Predicted": 51,
+        "fecha": "2022-07-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 56,
+        "Predicted": 53,
+        "fecha": "2022-08-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 62,
+        "Predicted": 59,
+        "fecha": "2022-09-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 64,
+        "Predicted": 61,
+        "fecha": "2022-10-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 76,
+        "Predicted": 65,
+        "fecha": "2022-11-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 54,
+        "Predicted": 67,
+        "fecha": "2022-12-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2022,
+        "Actual": 20,
+        "Predicted": 16,
+        "fecha": "2022-01-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 23,
+        "Predicted": 22,
+        "fecha": "2022-02-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 27,
+        "Predicted": 27,
+        "fecha": "2022-03-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 29,
+        "Predicted": 36,
+        "fecha": "2022-04-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 34,
+        "Predicted": 45,
+        "fecha": "2022-05-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 56,
+        "Predicted": 49,
+        "fecha": "2022-06-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 53,
+        "Predicted": 51,
+        "fecha": "2022-07-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 49,
+        "Predicted": 52,
+        "fecha": "2022-08-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 64,
+        "Predicted": 61,
+        "fecha": "2022-09-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 75,
+        "Predicted": 63,
+        "fecha": "2022-10-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 64,
+        "Predicted": 64,
+        "fecha": "2022-11-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 66,
+        "Predicted": 65,
+        "fecha": "2022-12-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2022,
+        "Actual": 8,
+        "Predicted": 16,
+        "fecha": "2022-01-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 22,
+        "Predicted": 26,
+        "fecha": "2022-02-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 23,
+        "Predicted": 34,
+        "fecha": "2022-03-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 39,
+        "Predicted": 35,
+        "fecha": "2022-04-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 42,
+        "Predicted": 47,
+        "fecha": "2022-05-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 60,
+        "Predicted": 59,
+        "fecha": "2022-06-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 54,
+        "Predicted": 63,
+        "fecha": "2022-07-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 71,
+        "Predicted": 66,
+        "fecha": "2022-08-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 72,
+        "Predicted": 65,
+        "fecha": "2022-09-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 74,
+        "Predicted": 65,
+        "fecha": "2022-10-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 65,
+        "Predicted": 66,
+        "fecha": "2022-11-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2022,
+        "Actual": 83,
+        "Predicted": 62,
+        "fecha": "2022-12-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 18,
+        "Predicted": 21,
+        "fecha": "2023-01-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 17,
+        "Predicted": 21,
+        "fecha": "2023-02-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 28,
+        "Predicted": 23,
+        "fecha": "2023-03-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 46,
+        "Predicted": 37,
+        "fecha": "2023-04-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 42,
+        "Predicted": 41,
+        "fecha": "2023-05-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 44,
+        "Predicted": 43,
+        "fecha": "2023-06-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 54,
+        "Predicted": 46,
+        "fecha": "2023-07-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 51,
+        "Predicted": 52,
+        "fecha": "2023-08-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 57,
+        "Predicted": 57,
+        "fecha": "2023-09-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 66,
+        "Predicted": 59,
+        "fecha": "2023-10-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 50,
+        "Predicted": 61,
+        "fecha": "2023-11-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 72,
+        "Predicted": 68,
+        "fecha": "2023-12-01",
+        "campo": "SEHS ANOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 21,
+        "Predicted": 21,
+        "fecha": "2023-01-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 22,
+        "Predicted": 22,
+        "fecha": "2023-02-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 26,
+        "Predicted": 26,
+        "fecha": "2023-03-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 36,
+        "Predicted": 37,
+        "fecha": "2023-04-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 43,
+        "Predicted": 41,
+        "fecha": "2023-05-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 39,
+        "Predicted": 44,
+        "fecha": "2023-06-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 47,
+        "Predicted": 48,
+        "fecha": "2023-07-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 51,
+        "Predicted": 53,
+        "fecha": "2023-08-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 65,
+        "Predicted": 57,
+        "fecha": "2023-09-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 54,
+        "Predicted": 57,
+        "fecha": "2023-10-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 61,
+        "Predicted": 63,
+        "fecha": "2023-11-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 68,
+        "Predicted": 64,
+        "fecha": "2023-12-01",
+        "campo": "SEHS APCE"
+    },
+    {
+        "Year": 2023,
+        "Actual": 21,
+        "Predicted": 21,
+        "fecha": "2023-01-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 19,
+        "Predicted": 22,
+        "fecha": "2023-02-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 25,
+        "Predicted": 25,
+        "fecha": "2023-03-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 35,
+        "Predicted": 35,
+        "fecha": "2023-04-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 48,
+        "Predicted": 42,
+        "fecha": "2023-05-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 50,
+        "Predicted": 44,
+        "fecha": "2023-06-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 49,
+        "Predicted": 48,
+        "fecha": "2023-07-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 46,
+        "Predicted": 51,
+        "fecha": "2023-08-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 63,
+        "Predicted": 58,
+        "fecha": "2023-09-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 58,
+        "Predicted": 57,
+        "fecha": "2023-10-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 49,
+        "Predicted": 63,
+        "fecha": "2023-11-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 73,
+        "Predicted": 65,
+        "fecha": "2023-12-01",
+        "campo": "SEHS MICOP"
+    },
+    {
+        "Year": 2023,
+        "Actual": 20,
+        "Predicted": 22,
+        "fecha": "2023-01-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 24,
+        "Predicted": 24,
+        "fecha": "2023-02-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 29,
+        "Predicted": 26,
+        "fecha": "2023-03-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 35,
+        "Predicted": 39,
+        "fecha": "2023-04-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 38,
+        "Predicted": 41,
+        "fecha": "2023-05-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 43,
+        "Predicted": 44,
+        "fecha": "2023-06-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 55,
+        "Predicted": 51,
+        "fecha": "2023-07-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 50,
+        "Predicted": 52,
+        "fecha": "2023-08-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 50,
+        "Predicted": 54,
+        "fecha": "2023-09-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 50,
+        "Predicted": 56,
+        "fecha": "2023-10-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 70,
+        "Predicted": 64,
+        "fecha": "2023-11-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 65,
+        "Predicted": 64,
+        "fecha": "2023-12-01",
+        "campo": "SEHS MNO"
+    },
+    {
+        "Year": 2023,
+        "Actual": 24,
+        "Predicted": 21,
+        "fecha": "2023-01-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 34,
+        "Predicted": 23,
+        "fecha": "2023-02-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 22,
+        "Predicted": 25,
+        "fecha": "2023-03-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 50,
+        "Predicted": 35,
+        "fecha": "2023-04-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 46,
+        "Predicted": 42,
+        "fecha": "2023-05-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 46,
+        "Predicted": 44,
+        "fecha": "2023-06-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 39,
+        "Predicted": 46,
+        "fecha": "2023-07-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 59,
+        "Predicted": 55,
+        "fecha": "2023-08-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 54,
+        "Predicted": 56,
+        "fecha": "2023-09-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 52,
+        "Predicted": 58,
+        "fecha": "2023-10-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 70,
+        "Predicted": 66,
+        "fecha": "2023-11-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 57,
+        "Predicted": 65,
+        "fecha": "2023-12-01",
+        "campo": "SEHS MPN"
+    },
+    {
+        "Year": 2023,
+        "Actual": 15,
+        "Predicted": 21,
+        "fecha": "2023-01-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 35,
+        "Predicted": 27,
+        "fecha": "2023-02-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 18,
+        "Predicted": 33,
+        "fecha": "2023-03-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 24,
+        "Predicted": 34,
+        "fecha": "2023-04-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 41,
+        "Predicted": 46,
+        "fecha": "2023-05-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 65,
+        "Predicted": 60,
+        "fecha": "2023-06-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 57,
+        "Predicted": 62,
+        "fecha": "2023-07-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 28,
+        "Predicted": 64,
+        "fecha": "2023-08-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 52,
+        "Predicted": 64,
+        "fecha": "2023-09-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 95,
+        "Predicted": 64,
+        "fecha": "2023-10-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 84,
+        "Predicted": 68,
+        "fecha": "2023-11-01",
+        "campo": "SEHS-CENTRAL"
+    },
+    {
+        "Year": 2023,
+        "Actual": 51,
+        "Predicted": 66,
+        "fecha": "2023-12-01",
+        "campo": "SEHS-CENTRAL"
+    }
+]

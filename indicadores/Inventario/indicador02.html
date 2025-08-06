@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../../css/pg-style.css" />
   </head>
   <body>
+    <!--
     <h1 class="title">Porcentaje de rotación del inventario en almacén</h1>
 
     <div class="contenido">
@@ -40,7 +41,6 @@
           crucial para garantizar que los modelos estén ajustados adecuadamente
           a los datos y que maximicen su capacidad predictiva.
         </p>
-        <!-- Contenedores de los gráficos -->
         <canvas id="xgb_n_estimators" class="mb-5"></canvas>
         <canvas id="xgb_max_depth" class="mb-5"></canvas>
         <canvas id="xgb_learning_rate" class="mb-5"></canvas>
@@ -82,6 +82,39 @@
           base a los datos previos.
         </p>
         <canvas id="chart" width="800" height="400"></canvas>
+      </div>
+    </div>
+-->
+    <h1 class="title">Promedio mensual del inventario por sede</h1>
+
+    <div class="contenido">
+      <div class="grafico">
+        <h4 class="mb-3">Comparación de Inventario Real vs Predicho</h4>
+        <p class="lh-base">
+          Este gráfico muestra la evolución mensual de los niveles de inventario promedio por sede,
+          comparando los valores reales y las predicciones generadas por el modelo. Esta visualización permite
+          analizar la capacidad del modelo para anticipar comportamientos futuros y validar su precisión con
+          base en los datos históricos observados.
+        </p>
+
+        <div class="d-flex align-items-center mb-3">
+          <label for="sede-select-inv2" class="me-2">Filtrar por sede:</label>
+          <select id="sede-select-inv2" class="form-select form-select-sm w-auto me-4">
+            <option value="SEHS ANOP">SEHS ANOP</option>
+            <option value="SHES APCE">SHES APCE</option>
+            <option value="SEHS MICOP">SEHS MICOP</option>
+            <option value="SEHS MNO">SEHS MNO</option>
+            <option value="SEHS MPN">SEHS MPN</option>
+            <option value="SEHS CENTRAL">SEHS CENTRAL</option>
+          </select>
+
+          <label for="year-select-inv2" class="me-2">Filtrar por año:</label>
+          <select id="year-select-inv2" class="form-select form-select-sm w-auto">
+            <option value="all">Todos los años</option>
+          </select>
+        </div>
+
+        <canvas id="chartInventario2"></canvas>
       </div>
     </div>
   </body>
