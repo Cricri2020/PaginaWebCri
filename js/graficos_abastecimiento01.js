@@ -258,125 +258,111 @@ function inicializarGraficosA01() {
 
   //Gráfico de Comparaciones de Predicciones vs Valores Reales por Año
   fetch("json/abastecimiento01/comparacion_predicciones.json")
-    .then((res) => res.json())
-    .then((data) => {
-      // Validar y filtrar años únicos válidos
-      const validYears = [
-        ...new Set(
-          data.anios.map((anio) =>
-            isNaN(parseInt(anio)) ? null : parseInt(anio)
-          )
-        ),
-      ].sort();
+  .then((res) => res.json())
+  .then((data) => {
+    // Obtener referencia al select de sede y de año
+    const filterYear = document.getElementById("filterYearComparacion");
+    const filterSede = document.getElementById("sede-select"); // Asegúrate de tener este select en el HTML
 
-      // Mostrar años válidos en la consola (para depuración)
-      console.log("Años válidos detectados:", validYears);
+    // Obtener años únicos desde los datos
+    const validYears = [
+      ...new Set(data.map((item) => parseInt(item.Year)))
+    ].filter(y => !isNaN(y)).sort();
 
-      // Crear opciones en el <select>
-      const filterSelect = document.getElementById("filterYearComparacion");
-      validYears.forEach((year) => {
-        const option = document.createElement("option");
-        option.value = year;
-        option.textContent = year;
-        filterSelect.appendChild(option);
-      });
-
-      // Función para filtrar los datos según el año seleccionado
-      const filterDataByYear = (year) => {
-        const filteredLabels = [];
-        const filteredValoresReales = [];
-        const filteredPredicciones = [];
-
-        data.anios.forEach((anio, index) => {
-          if (year === "all" || parseInt(anio) === parseInt(year)) {
-            filteredLabels.push(anio);
-            filteredValoresReales.push(data.valores_reales[index]);
-            filteredPredicciones.push(data.predicciones[index]);
-          }
-        });
-
-        return { filteredLabels, filteredValoresReales, filteredPredicciones };
-      };
-
-      // Crear el gráfico inicial
-      const createChart = (filteredData) => {
-        const ctxComparacion = document
-          .getElementById("comparacionPrediccionesChart")
-          .getContext("2d");
-
-        return new Chart(ctxComparacion, {
-          type: "line",
-          data: {
-            labels: filteredData.filteredLabels,
-            datasets: [
-              {
-                label: "Valor Histórico",
-                data: filteredData.filteredValoresReales,
-                borderColor: "rgba(54, 162, 235, 1)", // Azul
-                backgroundColor: "rgba(54, 162, 235, 0.2)",
-                tension: 0.4,
-                pointStyle: "circle",
-                pointRadius: 5,
-              },
-              {
-                label: "Predicción",
-                data: filteredData.filteredPredicciones,
-                borderColor: "rgba(255, 99, 132, 1)", // Rojo
-                backgroundColor: "rgba(255, 99, 132, 0.2)",
-                tension: 0.5,
-                pointStyle: "cross",
-                pointRadius: 5,
-              },
-            ],
-          },
-          options: {
-            plugins: {
-              title: {
-                display: true,
-                text: "Comparación de Predicciones vs Valores Reales por Año",
-                font: { size: 18 },
-              },
-              legend: {
-                position: "top",
-              },
-            },
-            scales: {
-              x: {
-                title: {
-                  display: true,
-                  text: "Año",
-                },
-              },
-              y: {
-                title: {
-                  display: true,
-                  text: "Costos Totales de Abastecimiento",
-                },
-                beginAtZero: false,
-              },
-            },
-          },
-        });
-      };
-
-      // Filtrar datos y crear el gráfico inicial
-      const initialData = filterDataByYear("all");
-      const comparacionChart = createChart(initialData);
-
-      // Actualizar el gráfico cuando se seleccione un año
-      filterSelect.addEventListener("change", (event) => {
-        const selectedYear = event.target.value;
-        const filteredData = filterDataByYear(selectedYear);
-
-        comparacionChart.data.labels = filteredData.filteredLabels;
-        comparacionChart.data.datasets[0].data =
-          filteredData.filteredValoresReales;
-        comparacionChart.data.datasets[1].data =
-          filteredData.filteredPredicciones;
-        comparacionChart.update();
-      });
-    })
-    .catch((error) => {
-      console.error("Error al cargar los datos del JSON:", error);
+    // Llenar el <select> de años
+    validYears.forEach((year) => {
+      const option = document.createElement("option");
+      option.value = year;
+      option.textContent = year;
+      filterYear.appendChild(option);
     });
+
+    // Función que filtra datos por sede y año
+    const filterData = (sede, year) => {
+      return data
+        .filter((item) => item.campo === sede && (year === "all" || item.Year === parseInt(year)))
+        .sort((a, b) => a.Year - b.Year);
+    };
+
+    // Función para construir el gráfico
+    const createChart = (filteredData) => {
+      const ctx = document.getElementById("comparacionPrediccionesChart").getContext("2d");
+
+      return new Chart(ctx, {
+        type: "line",
+        data: {
+          labels: filteredData.map(item => item.Year),
+          datasets: [
+            {
+              label: "Valor Histórico",
+              data: filteredData.map(item => item.Actual),
+              borderColor: "rgba(54, 162, 235, 1)",
+              backgroundColor: "rgba(54, 162, 235, 0.2)",
+              tension: 0.4,
+              pointStyle: "circle",
+              pointRadius: 5,
+            },
+            {
+              label: "Predicción",
+              data: filteredData.map(item => item.Predicted),
+              borderColor: "rgba(255, 99, 132, 1)",
+              backgroundColor: "rgba(255, 99, 132, 0.2)",
+              tension: 0.5,
+              pointStyle: "cross",
+              pointRadius: 5,
+            },
+          ],
+        },
+        options: {
+          plugins: {
+            title: {
+              display: true,
+              text: "Comparación de Predicciones vs Valores Reales por Año",
+              font: { size: 18 },
+            },
+            legend: {
+              position: "top",
+            },
+          },
+          scales: {
+            x: {
+              title: { display: true, text: "Año" },
+            },
+            y: {
+              title: { display: true, text: "Cantidad Real y Predicha" },
+              beginAtZero: false,
+            },
+          },
+        },
+      });
+    };
+
+    // Cargar datos iniciales (por defecto sede "SEHS ANOP", todos los años)
+    let currentSede = "SEHS ANOP";
+    let currentYear = "all";
+    let chart = createChart(filterData(currentSede, currentYear));
+
+    // Actualizar gráfico cuando cambie el año
+    filterYear.addEventListener("change", (e) => {
+      currentYear = e.target.value;
+      const newData = filterData(currentSede, currentYear);
+      chart.data.labels = newData.map(item => item.Year);
+      chart.data.datasets[0].data = newData.map(item => item.Actual);
+      chart.data.datasets[1].data = newData.map(item => item.Predicted);
+      chart.update();
+    });
+
+    // Actualizar gráfico cuando cambie la sede
+    filterSede.addEventListener("change", (e) => {
+      currentSede = e.target.value;
+      const newData = filterData(currentSede, currentYear);
+      chart.data.labels = newData.map(item => item.Year);
+      chart.data.datasets[0].data = newData.map(item => item.Actual);
+      chart.data.datasets[1].data = newData.map(item => item.Predicted);
+      chart.update();
+    });
+  })
+  .catch((error) => {
+    console.error("Error al cargar los datos del JSON:", error);
+  });
 }

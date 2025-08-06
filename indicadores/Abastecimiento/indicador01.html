@@ -78,14 +78,20 @@
           <label for="filterYearComparacion" class="me-2"
             >Filtrar por Año:</label
           >
-          <select
-            id="filterYearComparacion"
-            class="form-select form-select-sm w-auto"
-          >
-            <option value="all">Todos</option>
+          <select id="sede-select">
+            <option value="SEHS ANOP">SEHS ANOP</option>
+            <option value="SHES APCE">SHES APCE</option>
+            <option value="SEHS MICOP">SEHS MICOP</option>
+            <option value="SEHS MNO">SEHS MNO</option>
+            <option value="SEHS MPN">SEHS MPN</option>
+            <option value="SEHS CENTRAL">SEHS CENTRAL</option>
           </select>
-        </div>
-        <canvas id="comparacionPrediccionesChart"></canvas>
+
+          <select id="filterYearComparacion">
+            <option value="all">Todos los años</option>
+          </select>
+
+          <canvas id="comparacionPrediccionesChart"></canvas>
       </div>
     </div>
   </body>
