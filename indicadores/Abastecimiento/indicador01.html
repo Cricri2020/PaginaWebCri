@@ -74,9 +74,9 @@
           su utilidad para proyecciones futuras en la gestión del abastecimiento
           anual.
         </p>
-        <div class="d-flex align-items-center">
-          <label for="filterYearComparacion" class="me-2">Filtrar por Año:</label>
-          <select id="sede-select">
+        <div class="d-flex align-items-center mb-3">
+          <label for="sede-select" class="me-2">Filtrar por sede:</label>
+          <select id="sede-select" class="me-3">
             <option value="SEHS ANOP">SEHS ANOP</option>
             <option value="SHES APCE">SHES APCE</option>
             <option value="SEHS MICOP">SEHS MICOP</option>
@@ -85,11 +85,13 @@
             <option value="SEHS CENTRAL">SEHS CENTRAL</option>
           </select>
 
+          <label for="filterYearComparacion" class="me-2">Filtrar por año:</label>
           <select id="filterYearComparacion">
             <option value="all">Todos los años</option>
           </select>
+        </div>
 
-          <canvas id="comparacionPrediccionesChart"></canvas>
+        <canvas id="comparacionPrediccionesChart"></canvas>
       </div>
     </div>
   </body>
