@@ -4,12 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <title>Pronòstico de la demanda 
-      de materiales por sede</title>
+    <title>Ingreso mensual generada por ventas de material por sede</title>
   </head>
     <body>
     <h1 class="title">Ingreso mensual generada por ventas de material por sede</h1>
-
     <div class="contenido">
       <div class="grafico">
         <h4>Comparación de Ingresos Reales vs Predichos por Sede</h4>
@@ -20,7 +18,6 @@
           facilitando la evaluación de tendencias, precisión del modelo y toma de
           decisiones estratégicas en la gestión de ventas por sede.
         </p>
-
         <div class="d-flex align-items-center mb-3">
           <label for="sede-select3" class="me-2">Filtrar por sede:</label>
           <select id="sede-select3" class="form-select form-select-sm w-auto me-4">
@@ -31,13 +28,11 @@
             <option value="SEHS MPN">SEHS MPN</option>
             <option value="SEHS CENTRAL">SEHS CENTRAL</option>
           </select>
-
           <label for="filterYearIngresos" class="me-2">Filtrar por año:</label>
           <select id="filterYearIngresos" class="form-select form-select-sm w-auto">
             <option value="all">Todos los años</option>
           </select>
         </div>
-
         <canvas id="comparacionIngresosChart"></canvas>
       </div>
     </div>

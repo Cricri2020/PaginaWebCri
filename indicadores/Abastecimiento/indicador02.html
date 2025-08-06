@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <title>Rentabilidad de la demanda de material adquirido por sedes</title>
+    <title>Rentabilidad de la demanda de material adquirido por sede</title>
   </head>
-  <body>
+    <body>
     <!--
     <h1 class="title">Tasa de crecimiento de ventas</h1>
 
@@ -67,7 +67,6 @@
     </div>
     -->
     <h1 class="title">Rentabilidad de la demanda de material adquirido por sede</h1>
-
     <div class="contenido">
       <div class="grafico">
         <h4>Comparación de Costos Reales vs Predichos por Sede</h4>
@@ -78,7 +77,6 @@
           como los proyectados, facilitando la identificación de tendencias y apoyando
           la planificación presupuestal en la gestión del abastecimiento.
         </p>
-
         <div class="d-flex align-items-center mb-3">
           <label for="sede-select2" class="me-2">Filtrar por sede:</label>
           <select id="sede-select2" class="form-select form-select-sm w-auto me-4">
@@ -89,13 +87,11 @@
             <option value="SEHS MPN">SEHS MPN</option>
             <option value="SEHS CENTRAL">SEHS CENTRAL</option>
           </select>
-
           <label for="filterYearCostos" class="me-2">Filtrar por año:</label>
           <select id="filterYearCostos" class="form-select form-select-sm w-auto">
             <option value="all">Todos los años</option>
           </select>
         </div>
-
         <canvas id="comparacionCostosChart"></canvas>
       </div>
     </div>

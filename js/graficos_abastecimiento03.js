@@ -1,6 +1,6 @@
 function cargarAbastecimiento03(url) {
   $("#content").load(url, function () {
-    inicializarGraficosA2();
+    inicializarGraficosA3();
   });
 }
 
